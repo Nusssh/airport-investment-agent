@@ -15,7 +15,7 @@ import json
 import re
 import zipfile
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from datetime import date, datetime
+from datetime import date, datetime, timezone
 
 import pandas as pd
 import requests
@@ -35,7 +35,8 @@ class SanityCheckFailed(Exception):
 
 
 def _now() -> str:
-    return datetime.now().strftime("%Y-%m-%d %H:%M")
+    """UTC, so timestamps mean the same on a laptop and on the hosting server."""
+    return datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M")
 
 
 # ---------- metadata: where each dataset came from and when ----------
@@ -357,7 +358,8 @@ def reference_is_stale() -> bool:
     built = load_meta().get("airports", {}).get("built_at")
     if not built or not AIRPORTS_FILE.exists():
         return True
-    return (datetime.now() - datetime.strptime(built, "%Y-%m-%d %H:%M")).days >= config.REFERENCE_MAX_AGE_DAYS
+    built_at = datetime.strptime(built, "%Y-%m-%d %H:%M").replace(tzinfo=timezone.utc)
+    return (datetime.now(timezone.utc) - built_at).days >= config.REFERENCE_MAX_AGE_DAYS
 
 
 def refresh_reference(progress=print) -> list[str]:

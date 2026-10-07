@@ -2,7 +2,7 @@
 
 A chat agent that helps analysts screen US airports for modernization opportunities. It ranks, compares and explains using public aviation data and deterministic scoring; the LLM interprets the question and writes the answer, and every number is checked against the data.
 
-**🔗 Live demo: LIVE_URL** — no setup or API key needed.
+**🔗 Live demo: https://airport-investment-agent-nuss.streamlit.app** — no setup or API key needed.
 
 Design (architecture, scoring methodology, tradeoffs, AI usage): [DESIGN.md](DESIGN.md)
 

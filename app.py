@@ -26,7 +26,7 @@ with st.sidebar:
     _, sources = metrics.get_table()
     live = sources["traffic"].get("mode") == "live"
     st.markdown(f"{'🟢' if live else '🟡'} **BTS T-100 API** – {'live' if live else 'saved copy (API unavailable)'}  \n"
-                f"period {traffic.get('period', '?')} · fetched {traffic.get('fetched_at', '?')}"
+                f"period {traffic.get('period', '?')} · fetched {traffic.get('fetched_at', '?')} UTC"
                 f" ({traffic.get('seconds', '?')}s)")
     st.markdown(f"📁 **BTS delays** – files  \n{sources['delays'].get('period')} · large US airlines, domestic")
     st.markdown(f"📁 **FAA forecast (TAF)** – edition {meta.get('taf', {}).get('edition', '?')}")

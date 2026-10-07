@@ -1,0 +1,1467 @@
+airport,faa_name,city,state,hub_size,taf_enpl_start,taf_enpl_end,taf_forecast_cagr
+05C,Griffith-Merrillville                                                                               ,GRIFFITH,IN,0,20.0,20.0,0.0
+06A,Moton Field Municipal                                                                               ,TUSKEGEE,AL,0,76.0,76.0,0.0
+06C,Schaumburg Regional                                                                                 ,CHICAGO/SCHAUMBURG,IL,0,2.0,2.0,0.0
+09A,BUTLER/CHOCTAW COUNTY                             ,BUTLER,AL,0,34.0,34.0,0.0
+09J,JEKYLL ISLAND,JEKYLL ISLAND,GA,0,5.0,5.0,0.0
+0A8,BIBB COUNTY,CENTREVILLE,AL,0,4.0,4.0,0.0
+0A9,Elizabethton Municipal                                                                              ,ELIZABETHTON,TN,0,51.0,51.0,0.0
+0AK,PILOT STATION                                     ,PILOT STATION,AK,0,4063.0,4063.0,0.0
+0B1,Bethel Regional                                                                                     ,BETHEL,ME,0,2.0,2.0,0.0
+0B5,Turners Falls                                                                                       ,MONTAGUE,MA,0,16.0,16.0,0.0
+0B7,WARREN-SUGARBUSH,WARREN,VT,0,5.0,5.0,0.0
+0B8,Elizabeth Field                                                                                     ,FISHERS ISLAND,NY,0,189.0,189.0,0.0
+0S9,Jefferson County International                                                                      ,PORT TOWNSEND,WA,0,19.0,19.0,0.0
+15Z,MCCARTHY,MCCARTHY,AK,0,51.0,51.0,0.0
+16A,NUNAPITCHUK,NUNAPITCHUK,AK,0,3222.0,3222.0,0.0
+16G,Seneca County                                                                                       ,TIFFIN,OH,0,5.0,5.0,0.0
+17J,Donalsonville Municipal                                                                             ,DONALSONVILLE,GA,0,3.0,3.0,0.0
+18A,Franklin-Hart                                                                                       ,CANON,GA,0,7.0,7.0,0.0
+19P,PORT PROTECTION,PORT PROTECTION,AK,0,51.0,51.0,0.0
+1A5,Macon County                                                                                        ,FRANKLIN,NC,0,45.0,45.0,0.0
+1B1,Columbia County                                                                                     ,HUDSON,NY,0,37.0,37.0,0.0
+1B9,Mansfield Municipal                                                                                 ,MANSFIELD,MA,0,22.0,22.0,0.0
+1C5,Bolingbrook's Clow International                                                                    ,BOLINGBROOK,IL,0,4.0,4.0,0.0
+1D3,Platte Municipal                                                                                    ,PLATTE,SD,0,2.0,2.0,0.0
+1G4,GRAND CANYON WEST,PEACH SPRINGS,AZ,0,28308.0,28308.0,0.0
+1G5,Medina Municipal                                                                                    ,MEDINA,OH,0,13.0,13.0,0.0
+1H2,Effingham County Regional                                                                           ,EFFINGHAM,IL,0,3.0,3.0,0.0
+1H8,Casey Municipal                                                                                     ,CASEY,IL,0,2.0,2.0,0.0
+1L7,Escalante Municipal                                                                                 ,ESCALANTE,UT,0,8.0,8.0,0.0
+1L8,General Dick Stout Field                                                                            ,HURRICANE,UT,0,21.0,21.0,0.0
+1R7,Brookhaven-Lincoln County                                                                           ,BROOKHAVEN,MS,0,5.0,5.0,0.0
+20N,KINGSTON-ULSTER,KINGSTON,NY,0,37.0,37.0,0.0
+20V,Mc Elroy Airfield                                                                                   ,KREMMLING,CO,0,1.0,1.0,0.0
+26N,Ocean City Municipal                                                                                ,OCEAN CITY,NJ,0,9.0,9.0,0.0
+27K,Georgetown-Scott County Regional                                                                    ,GEORGETOWN,KY,0,3.0,3.0,0.0
+28J,Palatka Municipal/Lt Kay Larkin Field                                                               ,PALATKA,FL,0,1.0,1.0,0.0
+29D,GROVE CITY,GROVE CITY,PA,0,4.0,4.0,0.0
+2A3,LARSEN BAY,LARSEN BAY,AK,0,2286.0,2286.0,0.0
+2A9,KOTLIK,KOTLIK,AK,0,3653.0,3653.0,0.0
+2AK,LIME VILLAGE,LIME VILLAGE,AK,0,61.0,61.0,0.0
+2B3,Parlin Field                                                                                        ,NEWPORT,NH,0,2.0,2.0,0.0
+2B7,Pittsfield Municipal                                                                                ,PITTSFIELD,ME,0,4.0,4.0,0.0
+2C7,SHAKTOOLIK,SHAKTOOLIK,AK,0,1719.0,1719.0,0.0
+2G9,SOMERSET COUNTY,SOMERSET,PA,0,9.0,9.0,0.0
+2R0,Waynesboro Municipal                                                                                ,WAYNESBORO,MS,0,1.0,1.0,0.0
+2W5,MARYLAND,INDIAN HEAD,MD,0,7.0,7.0,0.0
+33N,Delaware Airpark                                                                                    ,DOVER/CHESWOLD,DE,0,8.0,8.0,0.0
+38S,DEER LODGE-CITY-COUNTY,DEER LODGE,MT,0,9.0,9.0,0.0
+39N,Princeton                                                                                           ,PRINCETON/ROCKY HILL,NJ,0,82.0,82.0,0.0
+3CU,Cable Union                                                                                         ,CABLE,WI,0,19.0,19.0,0.0
+3J1,Ridgeland-Claude Dean                                                                               ,RIDGELAND,SC,0,41.0,41.0,0.0
+3R7,JENNINGS,JENNINGS,LA,0,6.0,6.0,0.0
+3S9,Condon State Pauling Field                                                                          ,CONDON,OR,0,6.0,6.0,0.0
+44N,Sky Acres                                                                                           ,MILLBROOK,NY,0,6.0,6.0,0.0
+48A,COCHRAN,COCHRAN,GA,0,2.0,2.0,0.0
+4A2,ATMAUTLUAK,ATMAUTLUAK,AK,0,2868.0,2868.0,0.0
+4B8,Robertson Field                                                                                     ,PLAINVILLE,CT,0,7.0,7.0,0.0
+4G1,Greenville Municipal                                                                                ,GREENVILLE,PA,0,2.0,2.0,0.0
+4G7,Fairmont Municipal-Frankman Field                                                                   ,FAIRMONT,WV,0,3.0,3.0,0.0
+4I3,Knox County                                                                                         ,MOUNT VERNON,OH,0,9.0,9.0,0.0
+4J2,Berrien County                                                                                      ,NASHVILLE,GA,0,15.0,15.0,0.0
+4K0,PEDRO BAY,PEDRO BAY,AK,0,624.0,624.0,0.0
+4K5,OUZINKIE,OUZINKIE,AK,0,1348.0,1348.0,0.0
+4KA,TUNUNAK,TUNUNAK,AK,0,1935.0,1935.0,0.0
+4V9,ANTELOPE COUNTY,NELIGH,NE,0,5.0,5.0,0.0
+4Z7,HYDER,HYDER,AK,0,32.0,32.0,0.0
+51Z,MINTO AL WRIGHT,MINTO,AK,0,246.0,246.0,0.0
+57B,ISLESBORO,ISLESBORO,ME,0,157.0,157.0,0.0
+59B,Newton Field                                                                                        ,JACKMAN,ME,0,2.0,2.0,0.0
+5B2,Saratoga County                                                                                     ,SARATOGA SPRINGS,NY,0,161.0,161.0,0.0
+5F1,Post-Garza County Municipal                                                                         ,POST,TX,0,30.0,30.0,0.0
+5NK,NAKNEK,NAKNEK,AK,0,4.0,4.0,0.0
+5NN,NONDALTON,NONDALTON,AK,0,808.0,808.0,0.0
+60J,Odell Williamson Municipal                                                                          ,OCEAN ISLE BEACH,NC,0,10.0,10.0,0.0
+67L,MESQUITE,MESQUITE,NV,0,114.0,114.0,0.0
+6A8,Allakaket                                                                                           ,ALLAKAKET,AK,0,1674.0,1674.0,0.0
+6B0,MIDDLEBURY STATE,MIDDLEBURY,VT,0,19.0,19.0,0.0
+6R7,Old Harbor                                                                                          ,OLD HARBOR,AK,0,2137.0,2137.0,0.0
+74S,ANACORTES,ANACORTES,WA,0,58.0,58.0,0.0
+7AK,AKUTAN,AKUTAN,AK,0,887.0,887.0,0.0
+7KA,TATITLEK,TATITLEK,AK,0,525.0,525.0,0.0
+7S0,RONAN,RONAN,MT,0,6.0,6.0,0.0
+83D,MACKINAC COUNTY,ST IGNACE,MI,0,8.0,8.0,0.0
+8A3,Livingston Municipal                                                                                ,LIVINGSTON,TN,0,2.0,2.0,0.0
+8B0,Stephen A Bean Municipal                                                                            ,RANGELEY,ME,0,44.0,44.0,0.0
+93B,Stonington Municipal                                                                                ,STONINGTON,ME,0,3.0,3.0,0.0
+96Z,Whale Pass Seaplane Float Harbor Facility                                                           ,WHALE PASS                              ,AK,0,8.0,8.0,0.0
+9A3,Chuathbaluk                                                                                         ,CHUATHBALUK,AK,0,254.0,254.0,0.0
+9A8,UGASHIK,UGASHIK,AK,0,29.0,29.0,0.0
+9K2,KOKHANOK,KOKHANOK,AK,0,877.0,877.0,0.0
+9Z8,LEVELOCK,LEVELOCK,AK,0,360.0,360.0,0.0
+A29,SITKA,SITKA,AK,0,102.0,102.0,0.0
+A30,SCOTT VALLEY,FORT JONES,CA,0,2.0,2.0,0.0
+A61,TUNTUTULIAK,TUNTUTULIAK,AK,0,3700.0,3700.0,0.0
+A63,TWIN HILLS,TWIN HILLS,AK,0,3.0,3.0,0.0
+A79,CHIGNIK LAKE,CHIGNIK LAKE,AK,0,508.0,508.0,0.0
+AAF,Apalachicola Regional-Cleve Randolph Field                                                          ,APALACHICOLA,FL,0,13.0,13.0,0.0
+AAO,Colonel James Jabara                                                                                ,WICHITA,KS,0,13.0,13.0,0.0
+ABE,Lehigh Valley International                                                                         ,ALLENTOWN,PA,0,458221.0,488459.0,0.012862810747412023
+ABI,Abilene Regional                                                                                    ,ABILENE,TX,0,104051.0,124816.0,0.03706218931356364
+ABQ,Albuquerque International Sunport                                                                   ,ALBUQUERQUE,NM,2,2599858.0,2673506.0,0.005602413449411037
+ABR,Aberdeen Regional                                                                                   ,ABERDEEN,SD,0,24956.0,27318.0,0.01825085810004956
+ABY,Southwest Georgia Regional                                                                          ,ALBANY,GA,0,35748.0,38931.0,0.017205645897790278
+ACB,Antrim County                                                                                       ,BELLAIRE,MI,0,2.0,2.0,0.0
+ACJ,Jimmy Carter Regional                                                                               ,AMERICUS,GA,0,5.0,5.0,0.0
+ACK,Nantucket Memorial                                                                                  ,NANTUCKET,MA,0,153283.0,175743.0,0.027724734219521263
+ACT,Waco Regional                                                                                       ,WACO,TX,0,53608.0,55078.0,0.005425073043793027
+ACV,California Redwood Coast-Humboldt County                                                            ,ARCATA/EUREKA,CA,0,141939.0,156981.0,0.020349767892889004
+ACY,Atlantic City International                                                                         ,ATLANTIC CITY,NJ,0,410598.0,391607.0,-0.009426459292341649
+ADK,Adak                                                                                                ,ADAK ISLAND,AK,0,2530.0,2530.0,0.0
+ADQ,KODIAK,KODIAK,AK,0,86050.0,98366.0,0.027114422082468392
+ADS,ADDISON,DALLAS,TX,0,217.0,240.0,0.020352661349059886
+ADW,                                                                                                    ,CAMP SPRINGS,MD,0,629.0,918.0,0.07854534102504562
+AEX,Alexandria International                                                                            ,ALEXANDRIA,LA,0,228542.0,239719.0,0.009595222410494042
+AFJ,WASHINGTON COUNTY,WASHINGTON,PA,0,59.0,59.0,0.0
+AFM,AMBLER,AMBLER,AK,0,1819.0,1819.0,0.0
+AFO,Afton Lincoln County/General Boyd L Eddins Field                                                    ,AFTON,WY,0,5.0,5.0,0.0
+AFW,Perot Field/Fort Worth Alliance                                                                     ,FORT WORTH,TX,0,9579.0,10984.0,0.027751383781139394
+AGC,Allegheny County                                                                                    ,PITTSBURGH,PA,0,232.0,256.0,0.01988310171094443
+AGN,ANGOON,ANGOON,AK,0,2237.0,2297.0,0.005307684352121145
+AGS,Augusta Regional at Bush Field                                                                      ,AUGUSTA,GA,0,315754.0,350188.0,0.020917103845796925
+AHN,ATHENS/BEN EPPS,ATHENS,GA,0,2539.0,3198.0,0.04723259641298472
+AHP,PORT ALEXANDER,PORT ALEXANDER,AK,0,130.0,130.0,0.0
+AIA,Alliance Municipal                                                                                  ,ALLIANCE,NE,0,3975.0,4414.0,0.02117233153317244
+AID,Anderson Regional                                                                                   ,ANDERSON,IN,0,6.0,6.0,0.0
+AIK,Aiken Regional                                                                                      ,AIKEN,SC,0,143.0,143.0,0.0
+AIV,George Downer                                                                                       ,ALICEVILLE,AL,0,6.0,6.0,0.0
+AIZ,Lee C Fine Memorial                                                                                 ,KAISER/LAKE OZARK,MO,0,24.0,24.0,0.0
+AJC,CHIGNIK,CHIGNIK,AK,0,460.0,460.0,0.0
+AJR,Habersham County                                                                                    ,CORNELIA,GA,0,6.0,6.0,0.0
+AKA,ATKA,ATKA,AK,0,263.0,263.0,0.0
+AKH,Gastonia Municipal                                                                                  ,GASTONIA,NC,0,5.0,5.0,0.0
+AKI,AKIAK,AKIAK,AK,0,2761.0,2771.0,0.0007233280622267468
+AKK,AKHIOK,AKHIOK,AK,0,579.0,579.0,0.0
+AKN,KING SALMON,KING SALMON,AK,0,36732.0,35722.0,-0.00556079408051946
+AKP,ANAKTUVUK PASS,ANAKTUVUK PASS,AK,0,3078.0,3305.0,0.014333034440451753
+AKR,Akron Fulton International                                                                          ,AKRON,OH,0,35.0,35.0,0.0
+AKW,KLAWOCK,KLAWOCK,AK,0,16199.0,16199.0,0.0
+ALB,Albany International                                                                                ,ALBANY,NY,1,1557153.0,1804831.0,0.029961642167994684
+ALI,Alice International                                                                                 ,ALICE,TX,0,8.0,8.0,0.0
+ALO,Waterloo Regional                                                                                   ,WATERLOO,IA,0,17932.0,23106.0,0.05200840050392497
+ALS,San Luis Valley Regional/Bergman Field                                                              ,ALAMOSA,CO,0,12416.0,12416.0,0.0
+ALW,Walla Walla Regional                                                                                ,WALLA WALLA,WA,0,39039.0,39319.0,0.0014303652264788802
+ALX,Thomas C Russell Field                                                                              ,ALEXANDER CITY,AL,0,6.0,6.0,0.0
+AMA,Rick Husband Amarillo International                                                                 ,AMARILLO,TX,0,404085.0,413729.0,0.004728327074873473
+AMN,Gratiot Community                                                                                   ,ALMA,MI,0,2.0,2.0,0.0
+AMW,Ames Municipal                                                                                      ,AMES,IA,0,18.0,18.0,0.0
+ANB,Anniston Regional                                                                                   ,ANNISTON,AL,0,22.0,22.0,0.0
+ANC,Ted Stevens Anchorage International                                                                 ,ANCHORAGE,AK,2,2691637.0,2997722.0,0.021774295639342744
+ANE,Anoka County/Blaine (Janes Field)                                                                   ,MINNEAPOLIS,MN,0,37.0,37.0,0.0
+ANI,ANIAK,ANIAK,AK,0,4093.0,4288.0,0.009351903566600539
+ANV,ANVIK,ANVIK,AK,0,425.0,425.0,0.0
+ANW,Ainsworth Regional                                                                                  ,AINSWORTH,NE,0,2.0,2.0,0.0
+AOO,Altoona/Blair County                                                                                ,ALTOONA,PA,0,10056.0,10056.0,0.0
+APA,Centennial                                                                                          ,DENVER,CO,0,3054.0,3408.0,0.022177014130947414
+APC,Napa County                                                                                         ,NAPA,CA,0,2634.0,3302.0,0.04624226365206341
+APF,Naples Municipal                                                                                    ,NAPLES,FL,0,3196.0,4275.0,0.05990238567421913
+APN,Alpena County Regional                                                                              ,ALPENA,MI,0,12607.0,12607.0,0.0
+APT,Marion County/Brown Field                                                                           ,JASPER,TN,0,7.0,7.0,0.0
+AQH,QUINHAGAK,QUINHAGAK,AK,0,5939.0,5939.0,0.0
+AQT,NUIQSUT,NUIQSUT,AK,0,2355.0,2355.0,0.0
+AQW,HARRIMAN-AND-WEST,NORTH ADAMS,MA,0,11.0,11.0,0.0
+ARA,Acadiana Regional                                                                                   ,NEW IBERIA,LA,0,5.0,5.0,0.0
+ARB,Ann Arbor Municipal                                                                                 ,ANN ARBOR,MI,0,35.0,35.0,0.0
+ARC,ARCTIC VILLAGE,ARCTIC VILLAGE,AK,0,1639.0,1664.0,0.003032196363050854
+ARR,Aurora Municipal                                                                                    ,CHICAGO/AURORA,IL,0,32.0,32.0,0.0
+ART,Watertown International                                                                             ,WATERTOWN,NY,0,25895.0,25895.0,0.0
+ARV,Lakeland/Noble F Lee Memorial Field                                                                 ,MINOCQUA-WOODRUFF,WI,0,41.0,41.0,0.0
+ARW,Beaufort Exec                                                                                       ,BEAUFORT,SC,0,547.0,547.0,0.0
+ASE,Aspen-Pitkin County/Sardy Field                                                                     ,ASPEN,CO,0,358760.0,390148.0,0.01691598457163135
+ASH,Boire Field                                                                                         ,NASHUA,NH,0,9.0,9.0,0.0
+AST,Astoria Regional                                                                                    ,ASTORIA,OR,0,9.0,9.0,0.0
+ASW,Warsaw Municipal                                                                                    ,WARSAW,IN,0,4.0,4.0,0.0
+ASX,John F Kennedy Memorial                                                                             ,ASHLAND,WI,0,1.0,1.0,0.0
+ATK,Atqasuk Edward Burnell Sr Memorial                                                                  ,ATQASUK,AK,0,1812.0,1812.0,0.0
+ATL,Hartsfield/Jackson Atlanta International                                                            ,ATLANTA,GA,3,52080628.0,57226021.0,0.01902178240320529
+ATS,Artesia Municipal                                                                                   ,ARTESIA,NM,0,7.0,7.0,0.0
+ATW,Appleton International                                                                              ,APPLETON,WI,1,612643.0,739664.0,0.03840172574644374
+ATY,Watertown Regional                                                                                  ,WATERTOWN,SD,0,13761.0,13761.0,0.0
+AUG,AUGUSTA STATE,AUGUSTA,ME,0,4612.0,4612.0,0.0
+AUK,ALAKANUK,ALAKANUK,AK,0,4015.0,4015.0,0.0
+AUN,Auburn Municipal                                                                                    ,AUBURN,CA,0,5.0,5.0,0.0
+AUO,Auburn University Regional                                                                          ,AUBURN,AL,0,88.0,88.0,0.0
+AUS,Austin-Bergstrom International                                                                      ,AUSTIN,TX,3,10487467.0,12276521.0,0.03200295480788107
+AVL,Asheville Regional                                                                                  ,ASHEVILLE,NC,1,1030525.0,1120129.0,0.016814900633614904
+AVO,Avon Park Exec                                                                                      ,AVON PARK,FL,0,6.0,6.0,0.0
+AVP,Wilkes-Barre/Scranton International                                                                 ,WILKES-BARRE/SCRANTON,PA,0,227783.0,266247.0,0.031698223903333655
+AVQ,Marana Regional                                                                                     ,MARANA,AZ,0,1.0,1.0,0.0
+AWI,WAINWRIGHT,WAINWRIGHT,AK,0,3499.0,3499.0,0.0
+AWM,West Memphis Municipal                                                                              ,WEST MEMPHIS,AR,0,1.0,1.0,0.0
+AWO,Arlington Municipal                                                                                 ,ARLINGTON,WA,0,9.0,9.0,0.0
+AXN,Alexandria Regional/Chandler Field                                                                  ,ALEXANDRIA,MN,0,1.0,1.0,0.0
+AXQ,CLARION COUNTY,CLARION,PA,0,13.0,13.0,0.0
+AXX,ANGEL FIRE,ANGEL FIRE,NM,0,246.0,246.0,0.0
+AYS,Waycross-Ware County                                                                                ,WAYCROSS,GA,0,4.0,4.0,0.0
+AZC,Colorado City Municipal                                                                             ,COLORADO CITY,AZ,0,96.0,96.0,0.0
+AZO,Kalamazoo/Battle Creek International                                                                ,KALAMAZOO,MI,0,89096.0,90816.0,0.003831529904027242
+B19,Biddeford Municipal                                                                                 ,BIDDEFORD,ME,0,7.0,7.0,0.0
+BAF,Westfield-Barnes Regional                                                                           ,WESTFIELD/SPRINGFIELD,MA,0,835.0,958.0,0.02786435776120455
+BAK,Columbus Municipal                                                                                  ,COLUMBUS,IN,0,15.0,15.0,0.0
+BAM,BATTLE MOUNTAIN,BATTLE MOUNTAIN,NV,0,8.0,8.0,0.0
+BAX,Huron County Memorial                                                                               ,BAD AXE,MI,0,4.0,4.0,0.0
+BAZ,New Braunfels Ntl                                                                                   ,NEW BRAUNFELS,TX,0,82.0,82.0,0.0
+BBG,Branson                                                                                             ,BRANSON,MO,0,10.0,10.0,0.0
+BCB,Virginia Tech/Montgomery Exec                                                                       ,BLACKSBURG,VA,0,2.0,2.0,0.0
+BCE,BRYCE CANYON,BRYCE CANYON,UT,0,22.0,22.0,0.0
+BCT,BOCA RATON,BOCA RATON,FL,0,7755.0,8321.0,0.014188645363502506
+BDL,Bradley International                                                                               ,WINDSOR LOCKS,CT,2,3327536.0,3581500.0,0.0148186467551088
+BDN,Bend Municipal                                                                                      ,BEND,OR,0,45.0,45.0,0.0
+BDR,Bridgeport/Sikorsky                                                                                 ,BRIDGEPORT,CT,0,466.0,502.0,0.01499419890533571
+BDU,Boulder Municipal                                                                                   ,BOULDER,CO,0,4.0,4.0,0.0
+BED,Laurence G Hanscom Field                                                                            ,BEDFORD,MA,0,20162.0,20971.0,0.007899212714248316
+BEH,Southwest Michigan Regional                                                                         ,BENTON HARBOR,MI,0,9.0,9.0,0.0
+BET,BETHEL,BETHEL,AK,0,168241.0,183847.0,0.017899594329602753
+BFD,Bradford Regional                                                                                   ,BRADFORD,PA,0,2865.0,2865.0,0.0
+BFF,Scottsbluff/Western Nebraska Regional/Wm B Heilig Field                                             ,SCOTTSBLUFF,NE,0,15039.0,15039.0,0.0
+BFI,Boeing Field/King County International                                                              ,SEATTLE,WA,0,28470.0,29440.0,0.006723178286927922
+BFL,Meadows Field                                                                                       ,BAKERSFIELD,CA,0,217110.0,248394.0,0.02728809395614573
+BFM,Mobile International                                                                                ,MOBILE,AL,0,4243.0,2286.0,-0.11634927348315682
+BGE,Decatur County Industrial Air Park                                                                  ,BAINBRIDGE,GA,0,27.0,27.0,0.0
+BGF,Winchester Municipal                                                                                ,WINCHESTER,TN,0,28.0,28.0,0.0
+BGM,Greater Binghamton/Edwin A Link Field                                                               ,BINGHAMTON,NY,0,15866.0,14607.0,-0.01639955655576908
+BGR,Bangor International                                                                                ,BANGOR,ME,0,428133.0,512998.0,0.03682961526194162
+BHB,Hancock County/Bar Harbor                                                                           ,BAR HARBOR,ME,0,10198.0,11787.0,0.029384572586103275
+BHM,Birmingham-Shuttlesworth International                                                              ,BIRMINGHAM,AL,1,1619107.0,1798404.0,0.021227125535380198
+BID,BLOCK ISLAND STATE,BLOCK ISLAND,RI,0,19948.0,20862.0,0.009000348652451473
+BIH,BISHOP,BISHOP,CA,0,12911.0,12911.0,0.0
+BIL,Billings Logan International                                                                        ,BILLINGS,MT,1,499223.0,548658.0,0.019063920952404834
+BIS,Bismarck Municipal                                                                                  ,BISMARCK,ND,0,310631.0,345652.0,0.021595228594378124
+BIV,West Michigan Regional                                                                              ,HOLLAND,MI,0,32.0,32.0,0.0
+BJC,Rocky Mountain Metro                                                                                ,DENVER,CO,0,20456.0,27938.0,0.06432660804379431
+BJI,Bemidji Regional                                                                                    ,BEMIDJI,MN,0,27899.0,31010.0,0.021368890889967185
+BJJ,Wayne County                                                                                        ,WOOSTER,OH,0,2.0,2.0,0.0
+BKD,Stephens County                                                                                     ,BRECKENRIDGE,TX,0,3.0,3.0,0.0
+BKL,Burke Lakefront                                                                                     ,CLEVELAND,OH,0,1492.0,1486.0,-0.0008055864380733802
+BKS,BROOKS COUNTY,FALFURRIAS,TX,0,34.0,34.0,0.0
+BKV,Brooksville-Tampa Bay Regional                                                                      ,BROOKSVILLE,FL,0,3.0,3.0,0.0
+BKW,Raleigh County Memorial                                                                             ,BECKLEY,WV,0,5813.0,5813.0,0.0
+BKX,Brookings Regional                                                                                  ,BROOKINGS,SD,0,2.0,2.0,0.0
+BLI,Bellingham International                                                                            ,BELLINGHAM,WA,0,223812.0,248795.0,0.021390128073654147
+BLM,Monmouth Exec                                                                                       ,BELMAR/FARMINGDALE,NJ,0,448.0,448.0,0.0
+BLV,Scott AFB/Midamerica St Louis                                                                       ,BELLEVILLE,IL,0,186700.0,203093.0,0.01697464982791619
+BMG,Monroe County                                                                                       ,BLOOMINGTON,IN,0,2207.0,2420.0,0.018597501489750368
+BMI,Central Il Regional/Bloomington-Normal                                                              ,BLOOMINGTON/NORMAL,IL,0,158813.0,161521.0,0.0033872750395280704
+BML,Berlin Regional                                                                                     ,BERLIN,NH,0,7.0,7.0,0.0
+BMQ,Burnet Municipal/Kate Craddock Field                                                                ,BURNET,TX,0,2.0,2.0,0.0
+BMT,Beaumont Municipal                                                                                  ,BEAUMONT,TX,0,2.0,2.0,0.0
+BNA,Nashville International                                                                             ,NASHVILLE,TN,3,12283450.0,14220015.0,0.029712390029821956
+BOI,Boise Air Trml/Gowen Field                                                                          ,BOISE,ID,2,2573016.0,2958280.0,0.028298868951746492
+BOS,General Edward Lawrence Logan International                                                         ,BOSTON,MA,3,21200148.0,23896939.0,0.024237509431690896
+BOW,Bartow Exec                                                                                         ,BARTOW,FL,0,6.0,6.0,0.0
+BPK,Baxter County                                                                                       ,MOUNTAIN HOME,AR,0,8.0,8.0,0.0
+BPT,Jack Brooks Regional                                                                                ,BEAUMONT/PORT ARTHUR,TX,0,33703.0,34318.0,0.003623176632247649
+BQK,Brunswick Golden Isles                                                                              ,BRUNSWICK,GA,0,53414.0,59640.0,0.022295635218243293
+BQN,Rafael Hernandez                                                                                    ,AGUADILLA,PR,0,333016.0,350685.0,0.01039320760616369
+BRD,Brainerd Lakes Regional                                                                             ,BRAINERD,MN,0,16146.0,16693.0,0.006685675794634305
+BRL,Southeast Iowa Regional                                                                             ,BURLINGTON,IA,0,4180.0,4180.0,0.0
+BRO,Brownsville/South Padre Island International                                                        ,BROWNSVILLE,TX,0,152773.0,154351.0,0.0020573274321393775
+BRW,Wiley Post-Will Rogers Memorial                                                                     ,UTQIAGVIK                               ,AK,0,43308.0,43308.0,0.0
+BST,Belfast Municipal                                                                                   ,BELFAST,ME,0,74.0,74.0,0.0
+BTA,Blair Exec                                                                                          ,BLAIR,NE,0,3.0,3.0,0.0
+BTI,Barter Island                                                                                       ,BARTER ISLAND                           ,AK,0,2225.0,2230.0,0.00044903475670143855
+BTL,Battle Creek Exec at Kellogg Field                                                                  ,BATTLE CREEK,MI,0,6.0,6.0,0.0
+BTM,Bert Mooney                                                                                         ,BUTTE,MT,0,21518.0,24005.0,0.02211546981453938
+BTP,Pittsburgh/Butler Regional                                                                          ,BUTLER,PA,0,31.0,31.0,0.0
+BTR,"Baton Rouge Metro, Ryan Field                                                                       ",BATON ROUGE,LA,0,422117.0,460977.0,0.017769150451846683
+BTT,BETTLES,BETTLES,AK,0,1674.0,1674.0,0.0
+BTV,Patrick Leahy Burlington International                                                              ,BURLINGTON,VT,1,713971.0,824816.0,0.029284187631255953
+BUF,Buffalo Niagara International                                                                       ,BUFFALO,NY,2,2542104.0,2764388.0,0.016906766200049272
+BUR,Bob Hope                                                                                            ,BURBANK,CA,2,3329148.0,3608875.0,0.016266822049962215
+BUY,Burlington/Alamance Regional                                                                        ,BURLINGTON,NC,0,15.0,15.0,0.0
+BVK,BUCKLAND,BUCKLAND,AK,0,3674.0,3674.0,0.0
+BVO,Bartlesville Municipal                                                                              ,BARTLESVILLE,OK,0,27.0,27.0,0.0
+BVS,Skagit Regional                                                                                     ,BURLINGTON/MOUNT VERNON,WA,0,24.0,24.0,0.0
+BVU,Boulder City Municipal                                                                              ,BOULDER CITY,NV,0,57243.0,57243.0,0.0
+BVY,Beverly Regional                                                                                    ,BEVERLY,MA,0,193.0,192.0,-0.0010384238398417622
+BWG,Bowling Green-Warren County Regional                                                                ,BOWLING GREEN,KY,0,1594.0,1594.0,0.0
+BWI,Baltimore/Washington International Thurgood Marshall                                                ,BALTIMORE,MD,3,12389490.0,13381664.0,0.015526681380827023
+BXM,Brunswick Exec                                                                                      ,BRUNSWICK,ME,0,37.0,37.0,0.0
+BYG,Johnson County                                                                                      ,BUFFALO,WY,0,2.0,2.0,0.0
+BYH,Arkansas International                                                                              ,BLYTHEVILLE,AR,0,5.0,5.0,0.0
+BZN,Bozeman Yellowstone International                                                                   ,BOZEMAN,MT,1,1385231.0,1631612.0,0.03328217557408619
+C05,CHENEGA BAY,CHENEGA,AK,0,40.0,40.0,0.0
+C29,Middleton Municipal/Morey Field                                                                     ,MIDDLETON,WI,0,2.0,2.0,0.0
+C65,Plymouth Municipal                                                                                  ,PLYMOUTH,IN,0,6.0,6.0,0.0
+CAE,Columbia Metro                                                                                      ,COLUMBIA,SC,1,670365.0,766057.0,0.02704613071385764
+CAK,Akron-Canton Regional                                                                               ,AKRON,OH,0,432147.0,496442.0,0.028128511245932852
+CAR,Caribou Municipal                                                                                   ,CARIBOU,ME,0,84.0,84.0,0.0
+CBE,Greater Cumberland Regional                                                                         ,CUMBERLAND,MD,0,2.0,2.0,0.0
+CCB,Cable                                                                                               ,UPLAND,CA,0,15.0,15.0,0.0
+CCO,NEWNAN COWETA COUNTY,ATLANTA,GA,0,99.0,99.0,0.0
+CCR,Buchanan Field                                                                                      ,CONCORD,CA,0,13675.0,13675.0,0.0
+CDB,COLD BAY,COLD BAY,AK,0,2516.0,2516.0,0.0
+CDC,Cedar City Regional                                                                                 ,CEDAR CITY,UT,0,12394.0,12394.0,0.0
+CDN,Woodward Field                                                                                      ,CAMDEN,SC,0,3.0,3.0,0.0
+CDR,Chadron Municipal                                                                                   ,CHADRON,NE,0,831.0,831.0,0.0
+CDV,Merle K (Mudhole) Smith                                                                             ,CORDOVA,AK,0,18176.0,18176.0,0.0
+CDW,Essex County                                                                                        ,CALDWELL,NJ,0,176.0,176.0,0.0
+CEC,Jack McNamara Field                                                                                 ,CRESCENT CITY,CA,0,7567.0,7567.0,0.0
+CEF,Westover ARB/Metro                                                                                  ,SPRINGFIELD/CHICOPEE,MA,0,412.0,412.0,0.0
+CEM,CENTRAL,CENTRAL,AK,0,48.0,48.0,0.0
+CEU,Oconee County Regional                                                                              ,CLEMSON,SC,0,149.0,149.0,0.0
+CEW,Bob Sikes                                                                                           ,CRESTVIEW,FL,0,4.0,4.0,0.0
+CEZ,Cortez Municipal                                                                                    ,CORTEZ,CO,0,7861.0,7861.0,0.0
+CFK,CHEFORNAK,CHEFORNAK,AK,0,3680.0,3680.0,0.0
+CFO,COLORADO AIR AND SPACE PORT                       ,DENVER                                  ,CO,0,4.0,4.0,0.0
+CFT,GREENLEE COUNTY,CLIFTON/MORENCI,AZ,0,75.0,75.0,0.0
+CGA,CRAIG,CRAIG,AK,0,64.0,64.0,0.0
+CGC,Crystal River-Capt Tom Davis Field                                                                  ,CRYSTAL RIVER,FL,0,20.0,20.0,0.0
+CGE,Cambridge-Dorchester Regional                                                                       ,CAMBRIDGE,MD,0,30.0,30.0,0.0
+CGF,Cuyahoga County                                                                                     ,CLEVELAND,OH,0,69.0,77.0,0.02218223033109945
+CGI,Cape Girardeau Regional                                                                             ,CAPE GIRARDEAU,MO,0,9998.0,9998.0,0.0
+CHA,Lovell Field                                                                                        ,CHATTANOOGA,TN,1,619459.0,749516.0,0.03885197129509721
+CHD,Chandler Municipal                                                                                  ,CHANDLER,AZ,0,15.0,15.0,0.0
+CHN,Wauchula Municipal                                                                                  ,WAUCHULA,FL,0,3.0,3.0,0.0
+CHO,Charlottesville-Albemarle                                                                           ,CHARLOTTESVILLE,VA,0,360012.0,413896.0,0.028288196015627154
+CHP,CIRCLE HOT SPRINGS,CIRCLE HOT SPRINGS,AK,0,3.0,3.0,0.0
+CHS,Charleston AFB/International                                                                        ,CHARLESTON,SC,2,3123625.0,3654879.0,0.0319123798324199
+CHU,Houston County                                                                                      ,CALEDONIA,MN,0,153.0,153.0,0.0
+CIC,Chico Regional                                                                                      ,CHICO,CA,0,10.0,10.0,0.0
+CID,The Eastern Iowa                                                                                    ,CEDAR RAPIDS,IA,1,790498.0,900551.0,0.02641149574775592
+CIK,CHALKYITSIK,CHALKYITSIK,AK,0,732.0,772.0,0.010697621941132773
+CIU,Chippewa County International                                                                       ,SAULT STE MARIE,MI,0,29660.0,32757.0,0.020062060015795247
+CJR,Culpeper Regional                                                                                   ,CULPEPER,VA,0,13.0,13.0,0.0
+CJX,CROOKED CREEK,CROOKED CREEK,AK,0,494.0,494.0,0.0
+CKB,North Central West Virginia                                                                         ,CLARKSBURG,WV,0,41542.0,41215.0,-0.001579290783497611
+CKF,Crisp County-Cordele                                                                                ,CORDELE,GA,0,7.0,7.0,0.0
+CKI,Williamsburg Regional                                                                               ,KINGSTREE,SC,0,4.0,4.0,0.0
+CKM,Fletcher Field                                                                                      ,CLARKSDALE,MS,0,2.0,2.0,0.0
+CKV,Outlaw Field                                                                                        ,CLARKSVILLE,TN,0,7.0,7.0,0.0
+CKX,CHICKEN,CHICKEN,AK,0,21.0,21.0,0.0
+CLE,Cleveland-Hopkins International                                                                     ,CLEVELAND,OH,2,4875419.0,5112008.0,0.009522297817982528
+CLL,Easterwood Field                                                                                    ,COLLEGE STATION,TX,0,67373.0,68721.0,0.0039699565204693865
+CLM,William R Fairchild International                                                                   ,PORT ANGELES,WA,0,405.0,405.0,0.0
+CLP,CLARKS POINT,CLARKS POINT,AK,0,488.0,488.0,0.0
+CLT,Charlotte/Douglas International                                                                     ,CHARLOTTE,NC,3,26683807.0,29238473.0,0.01845390884369591
+CLW,CLEARWATER AIR PARK,CLEARWATER,FL,0,20.0,20.0,0.0
+CMA,CAMARILLO,CAMARILLO,CA,0,17.0,17.0,0.0
+CMH,John Glenn Columbus International                                                                   ,COLUMBUS,OH,2,4392608.0,4895376.0,0.021910169955516423
+CMI,University of Illinois/Willard                                                                      ,CHAMPAIGN/URBANA,IL,0,86077.0,91464.0,0.01221463828827174
+CMX,Houghton County Memorial                                                                            ,HANCOCK,MI,0,30042.0,32940.0,0.018588926825321872
+CNI,Cherokee County Regional                                                                            ,CANTON,GA,0,10.0,10.0,0.0
+CNM,Cavern City Air Terminal                                                                            ,CARLSBAD,NM,0,4371.0,4446.0,0.0034083953466093053
+CNO,CHINO,CHINO,CA,0,18.0,18.0,0.0
+CNY,Canyonlands Regional                                                                                ,MOAB,UT,0,12533.0,12533.0,0.0
+COD,Yellowstone Regional                                                                                ,CODY,WY,0,35671.0,39151.0,0.01879197403483679
+COE,Coeur D'Alene/Pappy Boyington Field                                                                 ,COEUR D'ALENE,ID,0,144.0,144.0,0.0
+COI,Merritt Island                                                                                      ,MERRITT ISLAND,FL,0,64.0,64.0,0.0
+CON,Concord Municipal                                                                                   ,CONCORD,NH,0,54.0,54.0,0.0
+COS,City of Colorado Springs Municipal                                                                  ,COLORADO SPRINGS,CO,1,1228122.0,1274053.0,0.007370425702531991
+COU,Columbia Regional                                                                                   ,COLUMBIA,MO,0,109500.0,117673.0,0.014501144458926696
+CPP,Greene County Regional                                                                              ,Greensboro,GA,0,35.0,35.0,0.0
+CPR,Casper/Natrona County International                                                                 ,CASPER,WY,0,101332.0,111227.0,0.01880888045509521
+CPS,St Louis Downtown                                                                                   ,CAHOKIA/ST LOUIS,IL,0,6419.0,5417.0,-0.03337440173418027
+CPT,Cleburne Regional                                                                                   ,CLEBURNE,TX,0,4.0,4.0,0.0
+CPU,Calaveras County/Maury Rasmussen Field                                                              ,SAN ANDREAS,CA,0,2.0,2.0,0.0
+CPX,BENJAMIN RIVERA NORIEGA,ISLA DE CULEBRA,PR,0,17777.0,17777.0,0.0
+CQA,Lakefield                                                                                           ,CELINA,OH,0,3.0,3.0,0.0
+CQF,H. L. (Sonny) Callahan                                                                              ,FAIRHOPE,AL,0,108.0,108.0,0.0
+CQM,Cook Municipal                                                                                      ,COOK,MN,0,4.0,4.0,0.0
+CQX,Chatham Municipal                                                                                   ,CHATHAM,MA,0,301.0,301.0,0.0
+CRC,CIRCLE CITY,CIRCLE,AK,0,156.0,156.0,0.0
+CRE,Grand Strand                                                                                        ,NORTH MYRTLE BEACH,SC,0,35.0,35.0,0.0
+CRG,Jacksonville Exec at Craig                                                                          ,JACKSONVILLE,FL,0,291.0,291.0,0.0
+CRP,Corpus Christi International                                                                        ,CORPUS CHRISTI,TX,0,374159.0,402588.0,0.014754359792866767
+CRQ,McClellan-Palomar                                                                                   ,CARLSBAD,CA,0,53601.0,60952.0,0.026036979924355386
+CRW,West Virginia International Yeager                                                                  ,CHARLESTON,WV,0,219316.0,243884.0,0.021462902624747482
+CSG,Columbus                                                                                            ,COLUMBUS,GA,0,55123.0,54979.0,-0.0005230147381164452
+CSM,CLINTON/SHERMAN                                   ,BURNS FLAT                              ,OK,0,6.0,6.0,0.0
+CSV,Crossville Memorial-Whitson Field                                                                   ,CROSSVILLE,TN,0,5.0,5.0,0.0
+CTJ,West Georgia Regional/O V Gray Field                                                                ,CARROLLTON,GA,0,10.0,10.0,0.0
+CTK,Ingersoll                                                                                           ,CANTON,IL,0,1.0,1.0,0.0
+CTY,CROSS CITY,CROSS CITY,FL,0,5.0,5.0,0.0
+CUB,Jim Hamilton L B Owens                                                                              ,COLUMBIA,SC,0,15.0,15.0,0.0
+CVC,Covington Municipal                                                                                 ,ATLANTA,GA,0,2.0,2.0,0.0
+CVG,Cincinnati/Northern Kentucky International                                                          ,COVINGTON,KY,2,4403009.0,4817069.0,0.018138027829716297
+CVN,Clovis Regional                                                                                     ,CLOVIS,NM,0,12024.0,12024.0,0.0
+CVO,Corvallis Municipal                                                                                 ,CORVALLIS,OR,0,1.0,1.0,0.0
+CVX,Charlevoix Municipal                                                                                ,CHARLEVOIX,MI,0,13565.0,13565.0,0.0
+CWA,Central Wisconsin                                                                                   ,MOSINEE,WI,0,83712.0,89439.0,0.013322867380710646
+CWF,Chennault International                                                                             ,LAKE CHARLES,LA,0,436.0,476.0,0.017710119001439484
+CXF,COLDFOOT,COLDFOOT,AK,0,5339.0,5339.0,0.0
+CXL,Calexico International                                                                              ,CALEXICO,CA,0,34.0,34.0,0.0
+CXO,Conroe/North Houston Regional                                                                       ,HOUSTON,TX,0,87.0,87.0,0.0
+CXP,Carson City                                                                                         ,CARSON CITY,NV,0,15.0,15.0,0.0
+CXU,Camilla-Mitchell County                                                                             ,CAMILLA,GA,0,14.0,14.0,0.0
+CXY,Capital City                                                                                        ,HARRISBURG,PA,0,16.0,16.0,0.0
+CYS,Cheyenne Regional/Jerry Olson Field                                                                 ,CHEYENNE,WY,0,26473.0,26473.0,0.0
+CZD,Cozad Municipal                                                                                     ,COZAD,NE,0,2.0,2.0,0.0
+CZG,Tri-Cities                                                                                          ,ENDICOTT,NY,0,5.0,5.0,0.0
+CZL,Tom B David Field                                                                                   ,CALHOUN,GA,0,2.0,2.0,0.0
+CZN,CHISANA,CHISANA,AK,0,157.0,157.0,0.0
+CZT,Dimmit County                                                                                       ,CARRIZO SPRINGS,TX,0,4.0,4.0,0.0
+D76,Robert /Bob/ Curtis Memorial                                                                        ,NOORVIK,AK,0,3602.0,3602.0,0.0
+DAB,Daytona Beach International                                                                         ,DAYTONA BEACH,FL,0,359483.0,471907.0,0.05593117590324037
+DAG,Barstow-Daggett                                                                                     ,DAGGETT,CA,0,13.0,13.0,0.0
+DAL,Dallas Love Field                                                                                   ,DALLAS,TX,2,8259453.0,8703045.0,0.010517848121421425
+DAN,Danville Regional                                                                                   ,DANVILLE,VA,0,24.0,24.0,0.0
+DAW,Skyhaven                                                                                            ,ROCHESTER,NH,0,9.0,9.0,0.0
+DAY,James M Cox Dayton International                                                                    ,DAYTON,OH,1,643247.0,703756.0,0.01814320748911591
+DBQ,Dubuque Regional                                                                                    ,DUBUQUE,IA,0,7386.0,7306.0,-0.0021757073216194245
+DCA,Ronald Reagan Washington Ntl                                                                        ,WASHINGTON                              ,DC,3,12181770.0,12974526.0,0.012689299441256185
+DCK,DAHL CREEK,DAHL CREEK,AK,0,4.0,4.0,0.0
+DCU,Pryor Field Regional                                                                                ,DECATUR,AL,0,17.0,17.0,0.0
+DDC,Dodge City Regional                                                                                 ,DODGE CITY,KS,0,9209.0,9384.0,0.0037720653209940558
+DDH,William H Morse State                                                                               ,BENNINGTON,VT,0,16.0,16.0,0.0
+DEC,DECATUR,DECATUR,IL,0,12205.0,13546.0,0.021067980654434715
+DED,DeLand Municipal-Sidney H Taylor Field                                                              ,DELAND,FL,0,8.0,8.0,0.0
+DEE,DEERING,DEERING,AK,0,1192.0,1192.0,0.0
+DEN,Denver International                                                                                ,DENVER,CO,3,39928187.0,44083524.0,0.019998052849461434
+DET,Coleman A Young Municipal                                                                           ,DETROIT,MI,0,52.0,56.0,0.014931978945393665
+DEW,DEER PARK,DEER PARK,WA,0,5.0,5.0,0.0
+DFI,Defiance Memorial                                                                                   ,DEFIANCE,OH,0,3.0,3.0,0.0
+DFW,Dallas-Fort Worth International                                                                     ,DALLAS-FORT WORTH,TX,3,41635095.0,45660593.0,0.018629847363549112
+DGW,Converse County                                                                                     ,DOUGLAS,WY,0,6.0,6.0,0.0
+DHN,Dothan Regional                                                                                     ,DOTHAN,AL,0,49700.0,52519.0,0.011095114418884666
+DIJ,Driggs/Reed Memorial                                                                                ,DRIGGS,ID,0,34.0,34.0,0.0
+DIK,Dickinson/Theodore Roosevelt Regional                                                               ,DICKINSON,ND,0,25180.0,27669.0,0.019031355744715484
+DKK,Chautauqua County/Dunkirk                                                                           ,DUNKIRK,NY,0,3.0,3.0,0.0
+DKX,Knoxville Downtown Island                                                                           ,KNOXVILLE,TN,0,4.0,4.0,0.0
+DLG,DILLINGHAM,DILLINGHAM,AK,0,33753.0,36649.0,0.016599636142748952
+DLH,Duluth International                                                                                ,DULUTH,MN,0,144227.0,162681.0,0.024372834106672903
+DLL,Baraboo/Wisconsin Dells Regional                                                                    ,BARABOO,WI,0,12.0,12.0,0.0
+DLS,Columbia Gorge Regional/The Dalles Municipal                                                        ,THE DALLES,OR,0,3.0,3.0,0.0
+DLZ,Delaware Municipal/Jim Moore Field                                                                  ,DELAWARE,OH,0,16.0,16.0,0.0
+DMN,Deming Municipal                                                                                    ,DEMING,NM,0,15.0,15.0,0.0
+DMW,Carroll County Regional/Jack B Poage Field                                                          ,WESTMINSTER,MD,0,25.0,25.0,0.0
+DNA,Dona Ana County International Jetport                                                               ,SANTA TERESA,NM,0,14.0,14.0,0.0
+DNL,Daniel Field                                                                                        ,AUGUSTA,GA,0,118.0,118.0,0.0
+DNN,Dalton Municipal                                                                                    ,DALTON,GA,0,7.0,7.0,0.0
+DPA,Dupage                                                                                              ,CHICAGO/WEST CHICAGO,IL,0,78.0,77.0,-0.0025773538727261736
+DQH,Douglas Municipal                                                                                   ,DOUGLAS,GA,0,14.0,14.0,0.0
+DRO,Durango-La Plata County                                                                             ,DURANGO,CO,0,274042.0,336160.0,0.041707476879136784
+DSM,Des Moines International                                                                            ,DES MOINES,IA,1,1586132.0,1845802.0,0.030787532428353526
+DTO,Denton Enterprise                                                                                   ,DENTON,TX,0,14.0,14.0,0.0
+DTS,Destin Exec                                                                                         ,DESTIN,FL,0,2937.0,2937.0,0.0
+DTW,Detroit Metro Wayne County                                                                          ,DETROIT,MI,3,16310658.0,18252007.0,0.022746092750852487
+DUJ,Dubois Regional                                                                                     ,DUBOIS,PA,0,4649.0,4884.0,0.009911277270503005
+DUT,UNALASKA,UNALASKA,AK,0,20169.0,20169.0,0.0
+DUY,KONGIGANAK,KONGIGANAK,AK,0,3259.0,3259.0,0.0
+DVK,Stuart Powell Field                                                                                 ,DANVILLE,KY,0,5.0,5.0,0.0
+DVL,Devils Lake Regional                                                                                ,DEVILS LAKE,ND,0,9720.0,10060.0,0.006900005336989867
+DVO,Gnoss Field                                                                                         ,NOVATO,CA,0,102.0,102.0,0.0
+DVT,Phoenix Deer Valley                                                                                 ,PHOENIX,AZ,0,94.0,120.0,0.05005169060192549
+DWA,YOLO COUNTY,DAVIS/WOODLAND/WINTERS,CA,0,2.0,2.0,0.0
+DWH,David Wayne Hooks Memorial                                                                          ,HOUSTON,TX,0,44.0,52.0,0.033975226531950176
+DWX,DIXON,DIXON,WY,0,4.0,4.0,0.0
+DXR,Danbury Municipal                                                                                   ,DANBURY,CT,0,75.0,77.0,0.005277338013011557
+DYL,DOYLESTOWN,DOYLESTOWN,PA,0,24.0,24.0,0.0
+DZJ,BLAIRSVILLE,BLAIRSVILLE,GA,0,1.0,1.0,0.0
+E01,Roy Hurd Memorial                                                                                   ,MONAHANS,TX,0,3.0,3.0,0.0
+E16,SAN MARTIN,SAN MARTIN,CA,0,8.0,8.0,0.0
+E38,Alpine-Casparis Municipal                                                                           ,ALPINE,TX,0,3.0,3.0,0.0
+E45,PINE MOUNTAIN LAKE,GROVELAND,CA,0,11.0,11.0,0.0
+E51,BAGDAD,BAGDAD,AZ,0,49.0,49.0,0.0
+EAA,EAGLE,EAGLE,AK,0,676.0,676.0,0.0
+EAR,Kearney Regional                                                                                    ,KEARNEY,NE,0,22353.0,22353.0,0.0
+EAT,Pangborn Memorial                                                                                   ,WENATCHEE,WA,0,43549.0,49269.0,0.024988781672000027
+EAU,Chippewa Valley Regional                                                                            ,EAU CLAIRE,WI,0,24830.0,32387.0,0.05457822645182131
+ECG,Elizabeth City CG Air Station/Regional                                                              ,ELIZABETH CITY,NC,0,14.0,14.0,0.0
+ECP,Northwest Florida Beaches International                                                             ,PANAMA CITY,FL,1,938351.0,1079467.0,0.02841596465467977
+EDC,AUSTIN EXEC                                       ,AUSTIN                                  ,TX,0,60.0,60.0,0.0
+EDE,Northeastern Regional                                                                               ,EDENTON,NC,0,3.0,3.0,0.0
+EDU,UNIVERSITY,DAVIS,CA,0,2.0,2.0,0.0
+EEK,EEK,EEK,AK,0,3114.0,3114.0,0.0
+EEN,DILLANT/HOPKINS                                   ,KEENE,NH,0,44.0,44.0,0.0
+EFD,Ellington                                                                                           ,HOUSTON,TX,0,16.0,16.0,0.0
+EFK,Northeast Kingdom International                                                                     ,NEWPORT,VT,0,31.0,31.0,0.0
+EGE,Eagle County Regional                                                                               ,EAGLE,CO,0,310949.0,364714.0,0.03241107335229443
+EGV,Eagle River Union                                                                                   ,EAGLE RIVER,WI,0,23.0,23.0,0.0
+EHO,Shelby-Cleveland County Regional                                                                    ,SHELBY,NC,0,2.0,2.0,0.0
+EII,EGEGIK,EGEGIK,AK,0,822.0,822.0,0.0
+EKM,Elkhart Municipal                                                                                   ,ELKHART,IN,0,42.0,42.0,0.0
+EKN,Elkins/Randolph County (Jennings Randolph Field)                                                    ,ELKINS,WV,0,12.0,12.0,0.0
+EKO,Elko Regional                                                                                       ,ELKO,NV,0,14352.0,16625.0,0.029840212019210943
+EKS,Ennis Big Sky                                                                                       ,ENNIS,MT,0,10.0,10.0,0.0
+EKY,BESSEMER,BESSEMER,AL,0,15.0,15.0,0.0
+ELD,South Arkansas Regional at Goodwin Field                                                            ,EL DORADO,AR,0,2475.0,2475.0,0.0
+ELI,ELIM,ELIM,AK,0,2025.0,2070.0,0.004405456962672805
+ELM,Elmira/Corning Regional                                                                             ,ELMIRA/CORNING,NY,0,100860.0,112547.0,0.02216967356852595
+ELP,El Paso International                                                                               ,EL PASO,TX,1,1960908.0,2041060.0,0.008044514510778367
+ELV,ELFIN COVE,ELFIN COVE,AK,0,510.0,560.0,0.01888124997130225
+ELY,Ely/Yelland Field                                                                                   ,ELY,NV,0,1.0,1.0,0.0
+EMP,Emporia Municipal                                                                                   ,EMPORIA,KS,0,4.0,4.0,0.0
+EMT,San Gabriel Valley                                                                                  ,EL MONTE,CA,0,11.0,11.0,0.0
+ENA,Kenai Municipal                                                                                     ,KENAI,AK,0,65750.0,72553.0,0.019886688727039914
+ENM,EMMONAK,EMMONAK,AK,0,9854.0,9854.0,0.0
+ENN,Nenana Municipal                                                                                    ,NENANA,AK,0,1.0,1.0,0.0
+ENW,Kenosha Regional                                                                                    ,KENOSHA,WI,0,23.0,23.0,0.0
+EQY,CHARLOTTE/MONROE EXEC                             ,MONROE,NC,0,62.0,62.0,0.0
+ERI,Erie International/Tom Ridge Field                                                                  ,ERIE,PA,0,62554.0,74737.0,0.03622988928863857
+ERV,Kerrville Municipal/Louis Schreiner Field                                                           ,KERRVILLE,TX,0,39.0,39.0,0.0
+ESC,Delta County                                                                                        ,ESCANABA,MI,0,18200.0,18315.0,0.0012605542610863996
+ESN,Easton/Newnam Field                                                                                 ,EASTON,MD,0,108.0,112.0,0.007300045195211657
+ETN,Eastland Municipal                                                                                  ,EASTLAND,TX,0,3.0,3.0,0.0
+EUF,Weedon Field                                                                                        ,EUFAULA,AL,0,1.0,1.0,0.0
+EUG,Mahlon Sweet Field                                                                                  ,EUGENE,OR,1,832994.0,975293.0,0.032045030056099266
+EVB,New Smyrna Beach Municipal                                                                          ,NEW SMYRNA BEACH,FL,0,14.0,14.0,0.0
+EVV,Evansville Regional                                                                                 ,EVANSVILLE,IN,0,223241.0,271172.0,0.03966680301197689
+EVY,Summit                                                                                              ,MIDDLETOWN,DE,0,5.0,5.0,0.0
+EWB,New Bedford Regional                                                                                ,NEW BEDFORD,MA,0,3106.0,4556.0,0.07963375099352876
+EWN,Coastal Carolina Regional                                                                           ,NEW BERN,NC,0,89552.0,97001.0,0.01610873403301638
+EWR,Newark Liberty International                                                                        ,NEWARK,NJ,3,23530841.0,25797998.0,0.018567256808024624
+EWU,Mertarvik                                                                                           ,MERTARVIK                               ,AK,0,2416.0,2416.0,0.0
+EXI,EXCURSION INLET,EXCURSION INLET,AK,0,23.0,23.0,0.0
+EXX,Davidson County Exec                                                                                ,LEXINGTON,NC,0,1.0,1.0,0.0
+EYE,Eagle Creek Airpark                                                                                 ,INDIANAPOLIS,IN,0,6.0,6.0,0.0
+EYW,Key West International                                                                              ,KEY WEST,FL,1,754519.0,830148.0,0.019288370272452227
+EZS,Shawano Municipal                                                                                   ,SHAWANO,WI,0,1.0,1.0,0.0
+F45,North Palm Beach County General Aviation                                                            ,WEST PALM BEACH,FL,0,198.0,198.0,0.0
+F70,FRENCH VALLEY,MURRIETA/TEMECULA,CA,0,139.0,139.0,0.0
+FAI,Fairbanks International                                                                             ,FAIRBANKS,AK,1,567403.0,596943.0,0.01020205405230934
+FAR,Hector International                                                                                ,FARGO,ND,1,596997.0,676876.0,0.025433245040550778
+FAT,Fresno Yosemite International                                                                       ,FRESNO,CA,1,1397130.0,1614619.0,0.02935848345777936
+FAY,Fayetteville Regional/Grannis Field                                                                 ,FAYETTEVILLE,NC,0,175511.0,190532.0,0.016559298245974574
+FBL,Faribault Municipal-Liz Wall Strohfus Field                                                         ,FARIBAULT,MN,0,3.0,3.0,0.0
+FCI,Richmond Exec/Chesterfield County                                                                   ,RICHMOND,VA,0,61.0,61.0,0.0
+FCM,FLYING CLOUD,MINNEAPOLIS,MN,0,379.0,379.0,0.0
+FDK,Frederick Municipal                                                                                 ,FREDERICK,MD,0,34.0,39.0,0.027820174603307546
+FDY,FINDLAY,FINDLAY,OH,0,6.0,6.0,0.0
+FFC,Atlanta Regional Falcon Field                                                                       ,ATLANTA,GA,0,31.0,31.0,0.0
+FFX,Fremont Municipal                                                                                   ,FREMONT,MI,0,3.0,3.0,0.0
+FFZ,Falcon Field                                                                                        ,MESA,AZ,0,21.0,21.0,0.0
+FHB,Fernandina Beach Municipal                                                                          ,FERNANDINA BEACH,FL,0,31.0,31.0,0.0
+FHR,FRIDAY HARBOR,FRIDAY HARBOR,WA,0,11901.0,13349.0,0.02322950727486539
+FHU,Sierra Vista Municipal-Libby AAF                                                                    ,FORT HUACHUCA SIERRA VISTA,AZ,0,93.0,93.0,0.0
+FIG,CLEARFIELD-LAWRENCE,CLEARFIELD,PA,0,2.0,2.0,0.0
+FIN,Flagler Exec                                                                                        ,PALM COAST,FL,0,56.0,56.0,0.0
+FIT,Fitchburg Municipal                                                                                 ,FITCHBURG,MA,0,7.0,7.0,0.0
+FKS,Frankfort Dow Memorial Field                                                                        ,FRANKFORT,MI,0,19.0,19.0,0.0
+FLD,FOND DU LAC COUNTY,FOND DU LAC,WI,0,2.0,2.0,0.0
+FLG,FLAGSTAFF PULLIAM,FLAGSTAFF,AZ,0,82369.0,80019.0,-0.005772285185956405
+FLL,Fort Lauderdale/Hollywood International                                                             ,FORT LAUDERDALE,FL,3,15723050.0,17841251.0,0.025599266399372045
+FLO,Florence Regional                                                                                   ,FLORENCE,SC,0,26294.0,26978.0,0.005149401382555707
+FLT,FLAT,FLAT,AK,0,16.0,16.0,0.0
+FLY,MEADOW LAKE,COLORADO SPRINGS,CO,0,1.0,1.0,0.0
+FME,Tipton                                                                                              ,FORT MEADE (ODENTON)                    ,MD,0,35.0,35.0,0.0
+FMN,Four Corners Regional                                                                               ,FARMINGTON,NM,0,4849.0,7084.0,0.07876109062532266
+FMY,Page Field                                                                                          ,FORT MYERS,FL,0,185.0,185.0,0.0
+FNL,Northern Colorado Regional                                                                          ,FORT COLLINS/LOVELAND,CO,0,2663.0,2606.0,-0.004318016070375519
+FNR,FUNTER BAY,FUNTER BAY,AK,0,19.0,19.0,0.0
+FNT,Bishop International                                                                                ,FLINT,MI,0,332728.0,357129.0,0.014254991367606218
+FOD,Fort Dodge Regional                                                                                 ,FORT DODGE,IA,0,8611.0,8611.0,0.0
+FOE,Topeka Regional                                                                                     ,TOPEKA,KS,0,3884.0,3645.0,-0.012621509125702812
+FOK,Francis S Gabreski                                                                                  ,WESTHAMPTON BEACH,NY,0,705.0,854.0,0.03909140077524342
+FPR,Treasure Coast International                                                                        ,FORT PIERCE,FL,0,218.0,222.0,0.0036430837731613597
+FQD,Rutherford County/Marchman Field                                                                    ,RUTHERFORDTON,NC,0,5.0,5.0,0.0
+FRG,Republic                                                                                            ,FARMINGDALE,NY,0,10129.0,10441.0,0.0060859982085554876
+FRH,French Lick Municipal                                                                               ,FRENCH LICK,IN,0,2.0,2.0,0.0
+FRM,Fairmont Municipal                                                                                  ,FAIRMONT,MN,0,1.0,1.0,0.0
+FRR,FRONT ROYAL-WARREN COUNTY,FRONT ROYAL,VA,0,3.0,3.0,0.0
+FSD,Joe Foss Field                                                                                      ,SIOUX FALLS,SD,1,736423.0,840360.0,0.026756842343541365
+FSM,Fort Smith Regional                                                                                 ,FORT SMITH,AR,0,59726.0,59813.0,0.00029116081025892804
+FSO,Franklin County State                                                                               ,HIGHGATE,VT,0,6.0,6.0,0.0
+FSP,NIKOLAI,NIKOLAI,AK,0,1595.0,1595.0,0.0
+FST,FORT STOCKTON-PECOS COUNTY,FORT STOCKTON,TX,0,11.0,11.0,0.0
+FTW,Fort Worth Meacham International                                                                    ,FORT WORTH,TX,0,3434.0,3981.0,0.03000273369267359
+FTY,Fulton County Exec/Charlie Brown Field                                                              ,ATLANTA,GA,0,248.0,252.0,0.0032051939538073615
+FUL,Fullerton Municipal                                                                                 ,FULLERTON,CA,0,5.0,5.0,0.0
+FVE,Northern Aroostook Regional                                                                         ,FRENCHVILLE,ME,0,28.0,28.0,0.0
+FVX,Farmville Regional                                                                                  ,FARMVILLE,VA,0,7.0,7.0,0.0
+FWA,Fort Wayne International                                                                            ,FORT WAYNE,IN,0,478685.0,554119.0,0.02969983847709079
+FWS,FORT WORTH SPINKS,FORT WORTH,TX,0,11.0,11.0,0.0
+FXE,Fort Lauderdale Exec                                                                                ,FORT LAUDERDALE,FL,0,3728.0,5156.0,0.06700732533343223
+FYJ,Middle Peninsula Regional                                                                           ,WEST POINT,VA,0,4.0,4.0,0.0
+FYU,Fort Yukon                                                                                          ,FORT YUKON,AK,0,5386.0,5692.0,0.011113033216004542
+FYV,Drake Field                                                                                         ,FAYETTEVILLE,AR,0,548.0,563.0,0.005415479219350372
+FZY,Oswego County                                                                                       ,FULTON,NY,0,5.0,5.0,0.0
+GAD,Northeast Alabama Regional                                                                          ,GADSDEN,AL,0,5.0,5.0,0.0
+GAI,Montgomery County Airpark                                                                           ,GAITHERSBURG,MD,0,397.0,397.0,0.0
+GAL,Edward G Pitka Sr                                                                                   ,GALENA,AK,0,11887.0,11887.0,0.0
+GAM,GAMBELL,GAMBELL,AK,0,2886.0,2886.0,0.0
+GBD,Great Bend Municipal                                                                                ,GREAT BEND,KS,0,3.0,3.0,0.0
+GBG,Galesburg Municipal                                                                                 ,GALESBURG,IL,0,167.0,167.0,0.0
+GBH,GALBRAITH LAKE,GALBRAITH LAKE,AK,0,365.0,365.0,0.0
+GCC,Northeast Wyoming Regional                                                                          ,GILLETTE,WY,0,30602.0,30602.0,0.0
+GCK,Garden City Regional                                                                                ,GARDEN CITY,KS,0,34631.0,37455.0,0.015801743272942703
+GCN,Grand Canyon Ntl Park                                                                               ,GRAND CANYON,AZ,0,109026.0,97235.0,-0.022631117224538477
+GDV,Dawson Community                                                                                    ,GLENDIVE,MT,0,2136.0,2136.0,0.0
+GED,Delaware Coastal                                                                                    ,GEORGETOWN,DE,0,49.0,49.0,0.0
+GEG,Spokane International                                                                               ,SPOKANE,WA,1,2103308.0,2317139.0,0.019553083977718932
+GEU,Glendale Regional                                                                                   ,GLENDALE,AZ,0,38.0,42.0,0.020218369075211573
+GEV,ASHE COUNTY,JEFFERSON,NC,0,2.0,2.0,0.0
+GEZ,Shelbyville Municipal                                                                               ,SHELBYVILLE,IN,0,4.0,4.0,0.0
+GFK,Grand Forks International                                                                           ,GRAND FORKS,ND,0,95176.0,93351.0,-0.0038647578996608978
+GFL,Floyd Bennett Memorial                                                                              ,GLENS FALLS,NY,0,68.0,68.0,0.0
+GGE,GEORGETOWN COUNTY,GEORGETOWN,SC,0,112.0,112.0,0.0
+GGG,East Texas Regional                                                                                 ,LONGVIEW,TX,0,33340.0,41712.0,0.045825155140978735
+GGV,KWIGILLINGOK,KWIGILLINGOK,AK,0,2744.0,2744.0,0.0
+GGW,Wokal Field/Glasgow-Valley County                                                                   ,GLASGOW,MT,0,3086.0,3161.0,0.0048140865172534575
+GHG,Marshfield Municipal - George Harlow Field                                                          ,MARSHFIELD,MA,0,123.0,123.0,0.0
+GIF,Winter Haven Regional                                                                               ,WINTER HAVEN,FL,0,8.0,8.0,0.0
+GJT,Grand Junction Regional                                                                             ,GRAND JUNCTION,CO,0,299736.0,356262.0,0.035156751111786955
+GKN,GULKANA,GULKANA,AK,0,320.0,320.0,0.0
+GKT,Gatlinburg-Pigeon Forge                                                                             ,SEVIERVILLE,TN,0,10.0,10.0,0.0
+GKY,Arlington Municipal                                                                                 ,ARLINGTON,TX,0,68.0,94.0,0.0669001794563302
+GLE,Gainesville Municipal                                                                               ,GAINESVILLE,TX,0,15.0,15.0,0.0
+GLH,Greenville Mid-Delta                                                                                ,GREENVILLE,MS,0,6530.0,6810.0,0.008432389363104642
+GLR,Gaylord Regional                                                                                    ,GAYLORD,MI,0,11.0,11.0,0.0
+GLV,GOLOVIN,GOLOVIN,AK,0,1439.0,1439.0,0.0
+GMU,GREENVILLE DOWNTOWN,GREENVILLE,SC,0,130.0,130.0,0.0
+GNF,Grenada Municipal                                                                                   ,GRENADA,MS,0,5.0,5.0,0.0
+GNG,Gooding Municipal                                                                                   ,GOODING,ID,0,3.0,3.0,0.0
+GNU,GOODNEWS,GOODNEWS,AK,0,1185.0,1269.0,0.013791520382048228
+GNV,Gainesville Regional                                                                                ,GAINESVILLE,FL,0,285166.0,324399.0,0.02611574733790656
+GON,GROTON-NEW LONDON,GROTON (NEW LONDON),CT,0,141.0,163.0,0.029422599540440686
+GOO,Nevada County                                                                                       ,GRASS VALLEY,CA,0,58.0,58.0,0.0
+GPI,Glacier Park International                                                                          ,KALISPELL,MT,1,553797.0,630422.0,0.026257047054150773
+GPT,Gulfport-Biloxi International                                                                       ,GULFPORT,MS,0,435457.0,429601.0,-0.0027041737962150147
+GPZ,Grand Rapids/Itasca County-Gordon Newstrom Field                                                    ,GRAND RAPIDS,MN,0,2.0,2.0,0.0
+GQQ,Galion Municipal                                                                                    ,GALION,OH,0,1.0,1.0,0.0
+GRB,Green Bay/Austin Straubel International                                                             ,GREEN BAY,WI,0,349364.0,392510.0,0.02356285002685632
+GRI,Central Nebraska Regional                                                                           ,GRAND ISLAND,NE,0,74860.0,81656.0,0.017531015287393537
+GRK,Robert Gray AAF                                                                                     ,FORT CAVAZOS (KILLEEN)                  ,TX,0,93624.0,100513.0,0.014301362103577908
+GRO,Benjamin Taisacan Manglona International                                                            ,ROTA ISLAND,MP,0,9603.0,9603.0,0.0
+GRR,Gerald R Ford International                                                                         ,GRAND RAPIDS,MI,1,2105306.0,2432093.0,0.02927871038731511
+GSN,Francisco C Ada/Saipan International                                                                ,SAIPAN ISLAND,MP,0,181521.0,197595.0,0.017114428400510917
+GSO,Piedmont Triad International                                                                        ,GREENSBORO,NC,1,1019135.0,1162583.0,0.026687915580989374
+GSP,Greenville Spartanburg International                                                                ,GREER,SC,1,1490134.0,1731849.0,0.030521221995486236
+GST,GUSTAVUS,GUSTAVUS,AK,0,10278.0,10278.0,0.0
+GTF,Great Falls International                                                                           ,GREAT FALLS,MT,0,188651.0,193350.0,0.004932780467415965
+GTR,Golden Triangle Regional                                                                            ,COLUMBUS/W POINT/STARKVILLE,MS,0,54631.0,63907.0,0.03186256306875701
+GTU,Georgetown Exec                                                                                     ,GEORGETOWN,TX,0,7.0,7.0,0.0
+GUC,Gunnison-Crested Butte Regional                                                                     ,GUNNISON,CO,0,68960.0,74615.0,0.015887877835655262
+GUM,Guam International                                                                                  ,GUAM,GU,1,952236.0,1205300.0,0.04826265015218989
+GUP,Gallup Municipal                                                                                    ,GALLUP,NM,0,3678.0,3678.0,0.0
+GVL,Lee Gilmer Memorial                                                                                 ,GAINESVILLE,GA,0,112.0,112.0,0.0
+GVQ,Genesee County                                                                                      ,BATAVIA,NY,0,10.0,10.0,0.0
+GWO,Greenwood-Leflore                                                                                   ,GREENWOOD,MS,0,9.0,9.0,0.0
+GYH,Donaldson Field                                                                                     ,GREENVILLE,SC,0,2.0,2.0,0.0
+GYI,North Texas Regional/Perrin Field                                                                   ,SHERMAN/DENISON,TX,0,11.0,11.0,0.0
+GYR,Phoenix Goodyear                                                                                    ,GOODYEAR,AZ,0,5.0,5.0,0.0
+GYY,Gary/Chicago International                                                                          ,GARY,IN,0,7527.0,10597.0,0.07080947080101407
+HAE,Hannibal Regional                                                                                   ,HANNIBAL,MO,0,1.0,1.0,0.0
+HAF,HALF MOON BAY,HALF MOON BAY,CA,0,3.0,3.0,0.0
+HAO,Butler County Regional/Hogan Field                                                                  ,HAMILTON,OH,0,5.0,5.0,0.0
+HBG,Hattiesburg Bobby L Chain Municipal                                                                 ,HATTIESBURG,MS,0,8.0,8.0,0.0
+HBI,Asheboro Regional                                                                                   ,ASHEBORO,NC,0,7.0,7.0,0.0
+HBV,JIM HOGG COUNTY,HEBBRONVILLE,TX,0,3.0,3.0,0.0
+HCA,HOLY CROSS,HOLY CROSS,AK,0,587.0,587.0,0.0
+HCD,Hutchinson Municipal/Butler Field                                                                   ,HUTCHINSON,MN,0,4.0,4.0,0.0
+HCR,Heber Valley                                                                                        ,HEBER,UT,0,613.0,613.0,0.0
+HDC,Hammond Northshore Regional                                                                         ,HAMMOND,LA,0,5.0,5.0,0.0
+HDN,Yampa Valley                                                                                        ,HAYDEN,CO,0,226871.0,240506.0,0.01174108437296395
+HDO,South Texas Regional at Hondo                                                                       ,HONDO,TX,0,1.0,1.0,0.0
+HEE,Thompson-Robbins                                                                                    ,HELENA/WEST HELENA,AR,0,6.0,6.0,0.0
+HEF,Manassas Regional/Harry P Davis Field                                                               ,WASHINGTON                              ,DC,0,199.0,199.0,0.0
+HEG,HERLONG RECREATIONAL,JACKSONVILLE,FL,0,6.0,6.0,0.0
+HEQ,HOLYOKE,HOLYOKE,CO,0,1.0,1.0,0.0
+HFD,HARTFORD-BRAINARD,HARTFORD,CT,0,65.0,65.0,0.0
+HFY,Indy South Greenwood                                                                                ,INDIANAPOLIS,IN,0,6.0,6.0,0.0
+HGR,Hagerstown Regional/Richard A Henson Field                                                          ,HAGERSTOWN,MD,0,44546.0,51880.0,0.030951538189066596
+HHF,Hemphill County                                                                                     ,CANADIAN,TX,0,2.0,2.0,0.0
+HHR,Jack Northrop Field/Hawthorne Municipal                                                             ,HAWTHORNE,CA,0,6562.0,7740.0,0.033572503056732206
+HIB,Range Regional                                                                                      ,HIBBING,MN,0,12569.0,12569.0,0.0
+HIE,Mount Washington Regional                                                                           ,WHITEFIELD,NH,0,9.0,9.0,0.0
+HII,LAKE HAVASU CITY,LAKE HAVASU CITY,AZ,0,19.0,19.0,0.0
+HIO,PORTLAND-HILLSBORO,PORTLAND,OR,0,76.0,84.0,0.020218369075211573
+HJO,Hanford Municipal                                                                                   ,HANFORD,CA,0,3.0,3.0,0.0
+HKY,Hickory Regional                                                                                    ,HICKORY,NC,0,392.0,301.0,-0.051459048009048325
+HLA,HUSLIA,HUSLIA,AK,0,3258.0,3451.0,0.01157660294739915
+HLN,Helena Regional                                                                                     ,HELENA,MT,0,101985.0,103148.0,0.0022703947404636438
+HMP,Atlanta Speedway                                                                                    ,ATLANTA                                 ,GA,0,5.0,5.0,0.0
+HMZ,BEDFORD COUNTY,BEDFORD,PA,0,2.0,2.0,0.0
+HND,Henderson Exec                                                                                      ,LAS VEGAS,NV,0,496.0,549.0,0.020512041653829804
+HNH,HOONAH,HOONAH,AK,0,5511.0,5511.0,0.0
+HNL,Daniel K Inouye International                                                                       ,HONOLULU,HI,3,10484012.0,11518614.0,0.01900084256352974
+HNM,HANA,HANA,HI,0,2474.0,2744.0,0.020932154758310118
+HNS,HAINES,HAINES,AK,0,6148.0,6405.0,0.008224055201043079
+HOB,Lea County Regional                                                                                 ,HOBBS,NM,0,28308.0,28436.0,0.0009027067654587828
+HOM,HOMER,HOMER,AK,0,23777.0,24223.0,0.003723689400341623
+HOT,Memorial Field                                                                                      ,HOT SPRINGS,AR,0,2955.0,2955.0,0.0
+HOU,William P Hobby                                                                                     ,HOUSTON,TX,2,6857482.0,7635647.0,0.021730206877071945
+HPB,HOOPER BAY,HOOPER BAY,AK,0,5153.0,5163.0,0.00038782249399038626
+HPN,Westchester County                                                                                  ,WHITE PLAINS,NY,1,1191891.0,1282644.0,0.014784718696003063
+HQM,Bowerman Field                                                                                      ,HOQUIAM,WA,0,1.0,1.0,0.0
+HQZ,Mesquite Metro                                                                                      ,MESQUITE,TX,0,5.0,5.0,0.0
+HRF,RAVALLI COUNTY,HAMILTON,MT,0,18.0,18.0,0.0
+HRJ,Harnett Regional Jetport                                                                            ,ERWIN,NC,0,2.0,2.0,0.0
+HRL,Valley International                                                                                ,HARLINGEN,TX,1,597370.0,604723.0,0.002449758774192068
+HRO,Boone County                                                                                        ,HARRISON,AR,0,3745.0,3745.0,0.0
+HRR,HEALY RIVER,HEALY,AK,0,1554.0,1554.0,0.0
+HSA,Stennis International                                                                               ,BAY ST LOUIS,MS,0,32.0,32.0,0.0
+HSG,HOT SPRINGS COUNTY,THERMOPOLIS,WY,0,2.0,2.0,0.0
+HSP,Ingalls Field                                                                                       ,HOT SPRINGS,VA,0,8.0,8.0,0.0
+HSV,Huntsville International-Carl T Jones Field                                                         ,HUNTSVILLE,AL,1,842116.0,969009.0,0.028468935088400205
+HTS,Tri-State/Milton J Ferguson Field                                                                   ,HUNTINGTON,WV,0,105380.0,109301.0,0.007333293760877213
+HUF,Terre Haute Regional                                                                                ,TERRE HAUTE,IN,0,418.0,853.0,0.15333255205621144
+HUL,Houlton International                                                                               ,HOULTON,ME,0,29.0,29.0,0.0
+HUM,HOUMA-TERREBONNE,HOUMA,LA,0,4.0,4.0,0.0
+HUS,HUGHES,HUGHES,AK,0,854.0,884.0,0.006929069451825365
+HUT,Hutchinson Regional                                                                                 ,HUTCHINSON,KS,0,82.0,82.0,0.0
+HVC,Hopkinsville-Christian County                                                                       ,HOPKINSVILLE,KY,0,35.0,35.0,0.0
+HVN,Tweed/New Haven                                                                                     ,NEW HAVEN,CT,1,721374.0,852076.0,0.03386437239667295
+HVR,Havre City-County                                                                                   ,HAVRE,MT,0,3166.0,3294.0,0.007958233790739566
+HWD,Hayward Exec                                                                                        ,HAYWARD,CA,0,24.0,28.0,0.03131030647754507
+HWO,North Perry                                                                                         ,HOLLYWOOD,FL,0,6.0,6.0,0.0
+HWV,Brookhaven                                                                                          ,SHIRLEY,NY,0,4.0,4.0,0.0
+HWY,Warrenton/Fauquier                                                                                  ,WARRENTON,VA,0,3.0,3.0,0.0
+HXD,Hilton Head                                                                                         ,HILTON HEAD ISLAND,SC,0,117468.0,122517.0,0.008452288537512898
+HYA,Cape Cod Gateway                                                                                    ,HYANNIS,MA,0,33709.0,41300.0,0.04145578454651688
+HYG,HYDABURG,HYDABURG,AK,0,1.0,1.0,0.0
+HYI,San Marcos Regional                                                                                 ,AUSTIN,TX,0,1.0,1.0,0.0
+HYL,Clark Bay                                                                                           ,HOLLIS,AK,0,45.0,45.0,0.0
+HYR,Sawyer County                                                                                       ,HAYWARD,WI,0,11.0,11.0,0.0
+HYS,Hays Regional                                                                                       ,HAYS,KS,0,17671.0,17671.0,0.0
+HYW,CONWAY-HORRY COUNTY,CONWAY,SC,0,3.0,3.0,0.0
+I68,Warren County/John Lane Field                                                                       ,LEBANON,OH,0,19.0,19.0,0.0
+IAD,Washington Dulles International                                                                     ,WASHINGTON                              ,DC,3,13871021.0,16224714.0,0.031843242084866
+IAG,Niagara Falls International                                                                         ,NIAGARA FALLS,NY,0,64056.0,64639.0,0.001813691357335001
+IAH,George Bush Intcntl/Houston                                                                         ,HOUSTON,TX,3,23308538.0,26121704.0,0.02305102310703311
+IAN,Bob Baker Memorial                                                                                  ,KIANA,AK,0,2546.0,2699.0,0.011739945284828579
+ICT,Wichita Dwight D Eisenhower Ntl                                                                     ,WICHITA,KS,1,903302.0,1021462.0,0.024891399246621093
+IDA,Idaho Falls Regional                                                                                ,IDAHO FALLS,ID,0,343335.0,411887.0,0.037079384711388386
+IDI,Indiana County/Jimmy Stewart Field                                                                  ,INDIANA,PA,0,4.0,4.0,0.0
+IFA,Iowa Falls Municipal                                                                                ,IOWA FALLS,IA,0,1.0,1.0,0.0
+IFP,Laughlin/Bullhead International                                                                     ,BULLHEAD CITY,AZ,0,74425.0,52601.0,-0.06705716973754339
+IGG,IGIUGIG,IGIUGIG,AK,0,433.0,438.0,0.0022988748448193874
+IGM,KINGMAN,KINGMAN,AZ,0,209.0,209.0,0.0
+IGT,NIGHTMUTE,NIGHTMUTE,AK,0,1913.0,1913.0,0.0
+IIK,KIPNUK,KIPNUK,AK,0,5564.0,5564.0,0.0
+IJD,Windham                                                                                             ,WILLIMANTIC,CT,0,7.0,7.0,0.0
+IJX,Jacksonville Municipal                                                                              ,JACKSONVILLE,IL,0,4.0,4.0,0.0
+IKG,KLEBERG COUNTY,KINGSVILLE,TX,0,21.0,21.0,0.0
+IKK,GREATER KANKAKEE,KANKAKEE,IL,0,11.0,11.0,0.0
+IKV,Ankeny Regional                                                                                     ,ANKENY,IA,0,325.0,325.0,0.0
+ILG,New Castle                                                                                          ,WILMINGTON,DE,0,159418.0,184565.0,0.029727706121974284
+ILI,ILIAMNA,ILIAMNA,AK,0,4213.0,4213.0,0.0
+ILM,Wilmington International                                                                            ,WILMINGTON,NC,1,869249.0,1107896.0,0.04971392631901539
+IMM,Immokalee Regional                                                                                  ,IMMOKALEE,FL,0,7.0,7.0,0.0
+IMS,Madison Municipal                                                                                   ,MADISON,IN,0,1.0,1.0,0.0
+IMT,Ford                                                                                                ,IRON MOUNTAIN KINGSFORD,MI,0,19892.0,19892.0,0.0
+IND,Indianapolis International                                                                          ,INDIANAPOLIS,IN,2,5199100.0,5980890.0,0.028412931303680056
+INF,INVERNESS,INVERNESS,FL,0,34.0,34.0,0.0
+INL,Falls International/Einarson Field                                                                  ,INTERNATIONAL FALLS,MN,0,14880.0,15593.0,0.009404762678937528
+INT,Smith Reynolds                                                                                      ,WINSTON SALEM,NC,0,929.0,1009.0,0.016658486962261465
+IOB,Mount Sterling/Montgomery County                                                                    ,MOUNT STERLING,KY,0,3.0,3.0,0.0
+IOW,Iowa City Municipal                                                                                 ,IOWA CITY,IA,0,608.0,608.0,0.0
+IPJ,Lincolnton-Lincoln County Regional                                                                  ,LINCOLNTON,NC,0,2.0,2.0,0.0
+IPL,Imperial County                                                                                     ,IMPERIAL,CA,0,3315.0,3315.0,0.0
+IPT,Williamsport Regional                                                                               ,WILLIAMSPORT,PA,0,2037.0,2177.0,0.01338268615000171
+IRK,Kirksville Regional                                                                                 ,KIRKSVILLE,MO,0,5482.0,5482.0,0.0
+ISM,Kissimmee Gateway                                                                                   ,Orlando,FL,0,193.0,201.0,0.008156024449081256
+ISO,Kinston Regional Jetport at Stallings Field                                                         ,KINSTON,NC,0,9.0,9.0,0.0
+ISP,Long Island MacArthur                                                                               ,NEW YORK,NY,1,757375.0,862535.0,0.026344483305967614
+ISW,Alexander Field South Wood County                                                                   ,WISCONSIN RAPIDS,WI,0,3.0,3.0,0.0
+ITH,Ithaca Tompkins International                                                                       ,ITHACA,NY,0,69127.0,70053.0,0.002664885692583052
+ITO,Hilo International                                                                                  ,HILO,HI,1,696893.0,738848.0,0.011760685887989508
+IUA,CANANDAIGUA,CANANDAIGUA,NY,0,13.0,13.0,0.0
+IWA,Mesa Gateway                                                                                        ,PHOENIX,AZ,1,1023611.0,1160594.0,0.025437216451257738
+IWD,Gogebic/Iron County                                                                                 ,IRONWOOD,MI,0,7623.0,7623.0,0.0
+IWI,WISCASSET,WISCASSET,ME,0,48.0,48.0,0.0
+IWK,WALES,WALES,AK,0,924.0,924.0,0.0
+IWS,WEST HOUSTON,HOUSTON,TX,0,57.0,57.0,0.0
+IXD,New Century Aircenter                                                                               ,OLATHE,KS,0,17.0,17.0,0.0
+IYA,Abbeville Chris Crusta Memorial                                                                     ,ABBEVILLE,LA,0,21.0,21.0,0.0
+IZA,Santa Ynez/Kunkle Field                                                                             ,SANTA YNEZ,CA,0,31.0,31.0,0.0
+IZG,Eastern Slopes Regional                                                                             ,FRYEBURG,ME,0,27.0,27.0,0.0
+JAC,Jackson Hole                                                                                        ,JACKSON,WY,1,565919.0,651067.0,0.028428922106101595
+JAN,Jackson-Medgar Wiley Evers International                                                            ,JACKSON,MS,1,607078.0,612330.0,0.0017242987456631553
+JAX,Jacksonville International                                                                          ,JACKSONVILLE,FL,2,3713687.0,4229819.0,0.026368458654801197
+JBR,Jonesboro Municipal                                                                                 ,JONESBORO,AR,0,1858.0,1858.0,0.0
+JCA,JACKSON COUNTY,JEFFERSON,GA,0,5.0,5.0,0.0
+JCT,Kimble County                                                                                       ,JUNCTION,TX,0,2.0,2.0,0.0
+JEF,Jefferson City Memorial                                                                             ,JEFFERSON CITY,MO,0,29.0,29.0,0.0
+JFK,John F Kennedy International                                                                        ,NEW YORK,NY,3,31129468.0,35364929.0,0.02584139151686049
+JHM,Kapalua                                                                                             ,LAHAINA,HI,0,1104.0,1160.0,0.009945138895525618
+JHW,Chautauqua County/Jamestown                                                                         ,JAMESTOWN,NY,0,16.0,16.0,0.0
+JKA,Gulf Shores International/Jack Edwards Field                                                        ,GULF SHORES,AL,0,23562.0,24676.0,0.009281986216762128
+JLN,Joplin Regional                                                                                     ,JOPLIN,MO,0,23078.0,24393.0,0.011144931763721333
+JMS,Jamestown Regional                                                                                  ,JAMESTOWN,ND,0,10943.0,11203.0,0.004707368438471304
+JNU,Juneau International                                                                                ,JUNEAU,AK,0,434246.0,473874.0,0.017619477408506556
+JQF,Concord-Padgett Regional                                                                            ,CONCORD,NC,0,175175.0,175382.0,0.00023622346406160233
+JRA,WEST 30TH ST,NEW YORK,NY,0,37.0,37.0,0.0
+JSO,Cherokee County                                                                                     ,JACKSONVILLE,TX,0,2.0,2.0,0.0
+JST,John Murtha Johnstown/Cambria County                                                                ,JOHNSTOWN,PA,0,19387.0,19718.0,0.0033915755804154735
+JVL,Southern Wisconsin Regional                                                                         ,JANESVILLE,WI,0,87.0,87.0,0.0
+JVY,Clark Regional                                                                                      ,JEFFERSONVILLE,IN,0,67.0,67.0,0.0
+JWN,John C Tune                                                                                         ,NASHVILLE,TN,0,192.0,192.0,0.0
+JWY,Mid-Way Regional                                                                                    ,MIDLOTHIAN/WAXAHACHIE,TX,0,1.0,1.0,0.0
+JYL,Plantation Airpark                                                                                  ,SYLVANIA,GA,0,2.0,2.0,0.0
+JYM,Hillsdale Municipal                                                                                 ,HILLSDALE,MI,0,1.0,1.0,0.0
+JYO,Leesburg Exec                                                                                       ,LEESBURG,VA,0,132.0,132.0,0.0
+JZI,Charleston Exec                                                                                     ,CHARLESTON,SC,0,520.0,520.0,0.0
+JZP,Pickens County                                                                                      ,JASPER,GA,0,5.0,5.0,0.0
+JZZ,KOLIGANEK,KOLIGANEK,AK,0,930.0,930.0,0.0
+K09,PISECO,PISECO,NY,0,11.0,11.0,0.0
+KAE,KAKE,KAKE,AK,0,3371.0,3371.0,0.0
+KAL,KALTAG,KALTAG,AK,0,1359.0,1384.0,0.0036523982150011847
+KCC,COFFMAN COVE,COFFMAN COVE,AK,0,44.0,44.0,0.0
+KCL,CHIGNIK LAGOON,CHIGNIK LAGOON,AK,0,448.0,448.0,0.0
+KEB,NANWALEK,NANWALEK,AK,0,2412.0,2412.0,0.0
+KEK,EKWOK,EKWOK,AK,0,469.0,469.0,0.0
+KFP,FALSE PASS,FALSE PASS,AK,0,88.0,88.0,0.0
+KGX,GRAYLING,GRAYLING,AK,0,751.0,751.0,0.0
+KKA,KOYUK ALFRED ADAMS,KOYUK,AK,0,1919.0,1919.0,0.0
+KKB,KITOI BAY,KITOI BAY,AK,0,77.0,77.0,0.0
+KLG,KALSKAG,KALSKAG,AK,0,2747.0,2937.0,0.013465705879470269
+KNB,Kanab Municipal                                                                                     ,KANAB,UT,0,685.0,685.0,0.0
+KNW,NEW STUYAHOK,NEW STUYAHOK,AK,0,1928.0,1983.0,0.005641383680778267
+KOA,Ellison Onizuka Kona International at Keahole                                                       ,KAILUA/KONA,HI,1,2034478.0,2221568.0,0.01775049583476518
+KPB,POINT BAKER,POINT BAKER,AK,0,3.0,3.0,0.0
+KSM,ST MARY'S,ST MARY'S,AK,0,4173.0,4253.0,0.0038051040285322912
+KTB,THORNE BAY,THORNE BAY,AK,0,151.0,173.0,0.027575713251795975
+KTN,Ketchikan International                                                                             ,KETCHIKAN,AK,0,148087.0,157927.0,0.012949723164214166
+KTS,BREVIG MISSION,BREVIG MISSION,AK,0,2173.0,2173.0,0.0
+KVC,KING COVE,KING COVE,AK,0,1486.0,1486.0,0.0
+KVL,KIVALINA,KIVALINA,AK,0,2832.0,2887.0,0.003854353960278445
+KWT,KWETHLUK,KWETHLUK,AK,0,3490.0,3490.0,0.0
+KXA,KASAAN,KASAAN,AK,0,4.0,4.0,0.0
+KYK,KARLUK,KARLUK,AK,0,268.0,268.0,0.0
+KYU,KOYUKUK,KOYUKUK,AK,0,744.0,777.0,0.008717642345786425
+L05,KERN VALLEY,KERNVILLE,CA,0,9.0,9.0,0.0
+L31,St Tammany Regional                                                                                 ,COVINGTON,LA,0,6.0,6.0,0.0
+LAF,Purdue University                                                                                   ,LAFAYETTE,IN,0,7804.0,15307.0,0.14423325164164025
+LAL,Lakeland Linder International                                                                       ,LAKELAND,FL,0,84854.0,103535.0,0.04059796830067208
+LAN,Capital Region International                                                                        ,LANSING,MI,0,118015.0,122099.0,0.006827291626811061
+LAR,Laramie Regional                                                                                    ,LARAMIE,WY,0,19321.0,19321.0,0.0
+LAS,Harry Reid International                                                                            ,LAS VEGAS,NV,3,27220454.0,29113882.0,0.013540134290924044
+LAW,Lawton-Fort Sill Regional                                                                           ,LAWTON,OK,0,41634.0,40888.0,-0.0036095737057617594
+LAX,Los Angeles International                                                                           ,LOS ANGELES,CA,3,36855152.0,42032013.0,0.026635781248705248
+LBB,Lubbock Preston Smith International                                                                 ,LUBBOCK,TX,1,567833.0,611124.0,0.014802999641614578
+LBE,Arnold Palmer Regional                                                                              ,LATROBE,PA,0,68177.0,59729.0,-0.02611097577070387
+LBF,North Platte Regional/Lee Bird Field                                                                ,NORTH PLATTE,NE,0,15637.0,15657.0,0.0002556727723157515
+LBL,Liberal Mid-America Regional                                                                        ,LIBERAL,KS,0,9255.0,9510.0,0.005450787887446573
+LCH,Lake Charles Regional                                                                               ,LAKE CHARLES,LA,0,91926.0,105796.0,0.028504454527499723
+LCI,Laconia Municipal                                                                                   ,LACONIA,NH,0,284.0,284.0,0.0
+LCK,Rickenbacker International                                                                          ,COLUMBUS,OH,0,161427.0,200938.0,0.04476154725615267
+LCQ,Lake City Gateway                                                                                   ,LAKE CITY,FL,0,2.0,2.0,0.0
+LDJ,LINDEN,LINDEN,NJ,0,7.0,7.0,0.0
+LDM,Mason County                                                                                        ,LUDINGTON,MI,0,9.0,9.0,0.0
+LEB,Lebanon Municipal                                                                                   ,LEBANON,NH,0,10030.0,9718.0,-0.006300223039126918
+LEE,Leesburg International                                                                              ,LEESBURG,FL,0,40.0,44.0,0.019244876491456564
+LEW,Auburn/Lewiston Municipal                                                                           ,AUBURN/LEWISTON,ME,0,50.0,50.0,0.0
+LEX,Blue Grass                                                                                          ,LEXINGTON,KY,1,797760.0,887665.0,0.021587023830816676
+LFT,Lafayette Regional/Paul Fournet Field                                                               ,LAFAYETTE,LA,0,294140.0,316520.0,0.01477419245289835
+LGA,Laguardia                                                                                           ,NEW YORK,NY,3,16345791.0,18305438.0,0.02290390518615104
+LGB,Long Beach (Daugherty Field)                                                                        ,LONG BEACH,CA,1,1883821.0,1937352.0,0.005619717945174685
+LGC,Lagrange/Callaway                                                                                   ,LAGRANGE,GA,0,7.0,7.0,0.0
+LGU,Logan-Cache                                                                                         ,LOGAN,UT,0,1433.0,1433.0,0.0
+LHD,Lake Hood                                                                                           ,ANCHORAGE,AK,0,11200.0,11200.0,0.0
+LHM,Lincoln Regional/Karl Harder Field                                                                  ,LINCOLN,CA,0,4.0,4.0,0.0
+LIH,LIHUE,LIHUE,HI,1,1819338.0,1977980.0,0.016861257701062504
+LIT,Bill and Hillary Clinton Ntl/Adams Field                                                            ,LITTLE ROCK,AR,1,1133061.0,1188698.0,0.009633258085786078
+LKP,LAKE PLACID,LAKE PLACID,NY,0,83.0,83.0,0.0
+LKU,Louisa County/Freeman Field                                                                         ,LOUISA,VA,0,2.0,2.0,0.0
+LLR,LITTLE RIVER,LITTLE RIVER,CA,0,4.0,4.0,0.0
+LMT,Crater Lake/Klamath Regional                                                                        ,KLAMATH FALLS,OR,0,7.0,7.0,0.0
+LNA,Palm Beach County Park                                                                              ,WEST PALM BEACH,FL,0,49.0,49.0,0.0
+LNK,Lincoln                                                                                             ,LINCOLN,NE,0,134866.0,156575.0,0.030300685287265594
+LNP,Lonesome Pine                                                                                       ,WISE,VA,0,1.0,1.0,0.0
+LNS,LANCASTER,LANCASTER,PA,0,18290.0,18717.0,0.004626215926554433
+LNY,LANAI,LANAI CITY,HI,0,41221.0,45773.0,0.02117028973590407
+LOM,Wings Field                                                                                         ,PHILADELPHIA,PA,0,624.0,624.0,0.0
+LOT,Lewis University                                                                                    ,CHICAGO/ROMEOVILLE,IL,0,9.0,9.0,0.0
+LOU,Bowman Field                                                                                        ,LOUISVILLE,KY,0,156.0,156.0,0.0
+LOZ,London/Corbin/Magee                                                                                 ,LONDON,KY,0,3.0,3.0,0.0
+LPR,Lorain County Regional                                                                              ,LORAIN/ELYRIA,OH,0,10.0,10.0,0.0
+LQK,PICKENS COUNTY,PICKENS,SC,0,11.0,11.0,0.0
+LRD,Laredo International                                                                                ,LAREDO,TX,0,153530.0,158969.0,0.006986940967304012
+LRG,Lincoln Regional                                                                                    ,LINCOLN,ME,0,1.0,1.0,0.0
+LRO,Mt Pleasant Regional-Faison Field                                                                   ,MOUNT PLEASANT,SC,0,72.0,72.0,0.0
+LRU,Las Cruces International                                                                            ,LAS CRUCES,NM,0,1991.0,1991.0,0.0
+LSE,La Crosse Regional                                                                                  ,LA CROSSE,WI,0,44177.0,52596.0,0.03550285183300472
+LUD,Decatur Municipal                                                                                   ,DECATUR,TX,0,1.0,1.0,0.0
+LUG,Ellington                                                                                           ,LEWISBURG,TN,0,2.0,2.0,0.0
+LUK,Cincinnati Municipal/Lunken Field                                                                   ,CINCINNATI,OH,0,1589.0,1319.0,-0.036561095174351355
+LUL,Hesler/Noble Field                                                                                  ,LAUREL,MS,0,122.0,122.0,0.0
+LUP,KALAUPAPA,KALAUPAPA,HI,0,3707.0,3707.0,0.0
+LVJ,Pearland Regional                                                                                   ,HOUSTON,TX,0,12.0,12.0,0.0
+LVK,Livermore Municipal                                                                                 ,LIVERMORE,CA,0,45.0,49.0,0.017177425634888444
+LVM,Mission Field                                                                                       ,LIVINGSTON,MT,0,2.0,2.0,0.0
+LVS,Las Vegas Municipal                                                                                 ,LAS VEGAS,NM,0,2.0,2.0,0.0
+LWA,South Haven Area Regional                                                                           ,SOUTH HAVEN,MI,0,4.0,4.0,0.0
+LWB,Greenbrier Valley                                                                                   ,LEWISBURG,WV,0,9261.0,10269.0,0.02087849151005483
+LWC,Lawrence Regional                                                                                   ,LAWRENCE,KS,0,4.0,4.0,0.0
+LWM,Lawrence Municipal                                                                                  ,LAWRENCE,MA,0,72.0,72.0,0.0
+LWS,Lewiston/Nez Perce County                                                                           ,LEWISTON,ID,0,43471.0,40945.0,-0.01190147967442956
+LXT,Kansas City/Lee's Summit Regional                                                                   ,LEE'S SUMMIT,MO,0,3.0,3.0,0.0
+LYH,Lynchburg Regional/Preston Glenn Field                                                              ,LYNCHBURG,VA,0,74730.0,79895.0,0.013456059666726805
+LZU,Gwinnett County/Briscoe Field                                                                       ,LAWRENCEVILLE,GA,0,76.0,76.0,0.0
+M02,Dickson Municipal                                                                                   ,DICKSON,TN,0,5.0,5.0,0.0
+M54,Lebanon Municipal                                                                                   ,LEBANON,TN,0,4.0,4.0,0.0
+M91,Springfield Robertson County                                                                        ,SPRINGFIELD,TN,0,32.0,32.0,0.0
+MAC,Macon Downtown                                                                                      ,MACON,GA,0,6.0,6.0,0.0
+MAE,Madera Municipal                                                                                    ,MADERA,CA,0,7.0,7.0,0.0
+MAF,Midland International Air And Space Port                                                            ,MIDLAND,TX,1,768850.0,842767.0,0.018528487961787743
+MAI,Marianna Municipal                                                                                  ,MARIANNA,FL,0,2.0,2.0,0.0
+MAL,MALONE-DUFORT,MALONE,NY,0,6.0,6.0,0.0
+MAZ,Eugenio Maria De Hostos                                                                             ,MAYAGUEZ,PR,0,9027.0,10218.0,0.025095887421141994
+MBA,MANOKOTAK,MANOKOTAK,AK,0,1705.0,1705.0,0.0
+MBL,Manistee County/Blacker                                                                             ,MANISTEE,MI,0,8624.0,8624.0,0.0
+MBO,Bruce Campbell Field                                                                                ,MADISON,MS,0,64.0,64.0,0.0
+MBS,MBS International                                                                                   ,SAGINAW,MI,0,117300.0,119427.0,0.00360057663620994
+MBT,Murfreesboro Municipal                                                                              ,MURFREESBORO,TN,0,3.0,3.0,0.0
+MCC,McClellan Airfield                                                                                  ,SACRAMENTO,CA,0,52.0,52.0,0.0
+MCD,MACKINAC ISLAND,MACKINAC ISLAND,MI,0,27.0,27.0,0.0
+MCE,Merced Yosemite Regional                                                                            ,MERCED,CA,0,4950.0,4950.0,0.0
+MCG,McGrath                                                                                             ,MC GRATH                                ,AK,0,3084.0,3114.0,0.001937999039532734
+MCI,Kansas City International                                                                           ,KANSAS CITY,MO,2,5653433.0,6183667.0,0.018091399999277558
+MCK,McCook Ben Nelson Regional                                                                          ,MC COOK,NE,0,2535.0,2560.0,0.0019646516937648073
+MCN,Middle Georgia Regional                                                                             ,MACON,GA,0,16740.0,20545.0,0.04181387804135084
+MCO,Orlando International                                                                               ,ORLANDO,FL,3,27569933.0,31108982.0,0.02444823320770806
+MCW,Mason City Municipal                                                                                ,MASON CITY,IA,0,8630.0,8630.0,0.0
+MCX,White County                                                                                        ,MONTICELLO,IN,0,4.0,4.0,0.0
+MDD,MIDLAND AIRPARK,MIDLAND,TX,0,18.0,18.0,0.0
+MDH,Southern Illinois                                                                                   ,CARBONDALE/MURPHYSBORO,IL,0,148.0,175.0,0.03408268602570064
+MDM,MARSHALL DON HUNTER SR,MARSHALL,AK,0,3168.0,3168.0,0.0
+MDQ,Huntsville Exec Tom Sharp Jr Field                                                                  ,HUNTSVILLE,AL,0,48.0,48.0,0.0
+MDT,Harrisburg International                                                                            ,HARRISBURG,PA,1,794598.0,948819.0,0.0361131389860565
+MDW,Chicago Midway International                                                                        ,CHICAGO,IL,2,9539110.0,10444844.0,0.018307213426530966
+MEI,Key Field                                                                                           ,MERIDIAN,MS,0,19402.0,19934.0,0.005424793796361405
+MEM,Memphis International                                                                               ,MEMPHIS,TN,1,2366259.0,2685709.0,0.025650356094010673
+MEV,MINDEN-TAHOE,MINDEN,NV,0,84.0,84.0,0.0
+MEZ,Mena Intermountain Municipal                                                                        ,MENA,AR,0,4.0,4.0,0.0
+MFD,Mansfield Lahm Regional                                                                             ,MANSFIELD,OH,0,3.0,3.0,0.0
+MFE,McAllen International                                                                               ,MC ALLEN,TX,1,593203.0,615147.0,0.0072913727612988755
+MFR,Rogue Valley International/Medford                                                                  ,MEDFORD,OR,1,532169.0,649320.0,0.04059525570810796
+MFV,Accomack County                                                                                     ,MELFA,VA,0,2.0,2.0,0.0
+MGJ,Orange County                                                                                       ,MONTGOMERY,NY,0,6.0,6.0,0.0
+MGM,Montgomery Regional (Dannelly Field)                                                                ,MONTGOMERY,AL,0,201399.0,217695.0,0.015683106153737247
+MGN,HARBOR SPRINGS,HARBOR SPRINGS,MI,0,40.0,40.0,0.0
+MGR,Moultrie Municipal                                                                                  ,MOULTRIE,GA,0,6.0,6.0,0.0
+MGW,Morgantown Municipal/Walter L Bill Hart Field                                                       ,MORGANTOWN,WV,0,13710.0,19616.0,0.07427284907099097
+MGY,Dayton/Wright Brothers                                                                              ,DAYTON,OH,0,57.0,57.0,0.0
+MHE,Mitchell Municipal                                                                                  ,MITCHELL,SD,0,52.0,52.0,0.0
+MHK,Manhattan Regional                                                                                  ,MANHATTAN,KS,0,87912.0,95436.0,0.016559524158066496
+MHM,MINCHUMINA,MINCHUMINA,AK,0,198.0,198.0,0.0
+MHP,John Edwin Jones Sr Field/Metter Municipal                                                          ,METTER,GA,0,10.0,10.0,0.0
+MHR,Sacramento Mather                                                                                   ,SACRAMENTO,CA,0,104.0,124.0,0.03580420358021419
+MHT,Manchester Boston Regional                                                                          ,MANCHESTER,NH,1,672741.0,770455.0,0.027495376442935093
+MIA,Miami International                                                                                 ,MIAMI,FL,3,26458529.0,29383467.0,0.021192151803956172
+MIC,CRYSTAL,MINNEAPOLIS,MN,0,4.0,4.0,0.0
+MIE,Delaware County Regional                                                                            ,MUNCIE,IN,0,99.0,99.0,0.0
+MIV,Millville Municipal                                                                                 ,MILLVILLE,NJ,0,13.0,13.0,0.0
+MJX,Ocean County                                                                                        ,TOMS RIVER,NJ,0,11.0,11.0,0.0
+MKC,Charles B Wheeler Downtown                                                                          ,KANSAS CITY,MO,0,4798.0,5249.0,0.018130073529434743
+MKE,General Mitchell International                                                                      ,MILWAUKEE,WI,2,2920085.0,3235723.0,0.020740081317046632
+MKG,MUSKEGON COUNTY,MUSKEGON,MI,0,6185.0,6543.0,0.011317315710416276
+MKJ,Mountain Empire                                                                                     ,MARION/WYTHEVILLE,VA,0,3.0,3.0,0.0
+MKK,Molokai                                                                                             ,KAUNAKAKAI,HI,0,74239.0,80818.0,0.017127033084607834
+MKL,Jackson Regional                                                                                    ,JACKSON,TN,0,8740.0,8795.0,0.0012554250915608467
+MKS,BERKELEY COUNTY,MONCKS CORNER,SC,0,4.0,4.0,0.0
+MKT,Mankato Regional                                                                                    ,MANKATO,MN,0,6.0,6.0,0.0
+MKY,Marco Island Exec                                                                                   ,MARCO ISLAND,FL,0,50.0,50.0,0.0
+MLB,Melbourne Orlando International                                                                     ,MELBOURNE,FL,0,316263.0,326612.0,0.006460535032853709
+MLE,Millard                                                                                             ,OMAHA,NE,0,13.0,13.0,0.0
+MLI,Quad Cities International                                                                           ,MOLINE,IL,0,343177.0,381819.0,0.021569392626980655
+MLT,Millinocket Municipal                                                                               ,MILLINOCKET,ME,0,11.0,11.0,0.0
+MLU,Monroe Regional                                                                                     ,MONROE,LA,0,113381.0,117204.0,0.006654478806663144
+MLY,MANLEY HOT SPRINGS,MANLEY HOT SPRINGS,AK,0,92.0,102.0,0.020851259369290887
+MMH,MAMMOTH YOSEMITE,MAMMOTH LAKES,CA,0,3567.0,3567.0,0.0
+MMK,Meriden Markham Municipal                                                                           ,MERIDEN,CT,0,1.0,1.0,0.0
+MMU,Morristown Municipal                                                                                ,MORRISTOWN,NJ,0,2378.0,2378.0,0.0
+MNN,Marion Municipal                                                                                    ,MARION,OH,0,10.0,10.0,0.0
+MO8,North Central Missouri Regional                                                                     ,BROOKFIELD,MO,0,3.0,3.0,0.0
+MOB,Mobile Regional                                                                                     ,MOBILE,AL,0,337041.0,412945.0,0.04145832394330551
+MOD,Modesto City-County-Harry Sham Field                                                                ,MODESTO,CA,0,18.0,18.0,0.0
+MOP,Mount Pleasant Municipal                                                                            ,MOUNT PLEASANT,MI,0,4.0,4.0,0.0
+MOT,Minot International                                                                                 ,MINOT,ND,0,181203.0,205903.0,0.025886838564326053
+MOU,MOUNTAIN VILLAGE,MOUNTAIN VILLAGE,AK,0,3821.0,3821.0,0.0
+MPO,Pocono Mountains Regional                                                                           ,MOUNT POCONO,PA,0,24.0,24.0,0.0
+MPV,Edward F Knapp State                                                                                ,BARRE/MONTPELIER,VT,0,48.0,48.0,0.0
+MPZ,Mount Pleasant Municipal                                                                            ,MOUNT PLEASANT,IA,0,5.0,5.0,0.0
+MQI,Dare County Regional                                                                                ,MANTEO,NC,0,15.0,15.0,0.0
+MQJ,Indianapolis Regional                                                                               ,INDIANAPOLIS,IN,0,26.0,26.0,0.0
+MQS,CHESTER COUNTY G O CARLSON,COATESVILLE,PA,0,48.0,48.0,0.0
+MQY,SMYRNA,SMYRNA,TN,0,1235.0,1230.0,-0.0008110310754876338
+MRB,Eastern WV Regional/Shepherd Field                                                                  ,MARTINSBURG,WV,0,13.0,13.0,0.0
+MRF,Marfa Municipal                                                                                     ,MARFA,TX,0,12.0,12.0,0.0
+MRH,Michael J Smith Field                                                                               ,BEAUFORT,NC,0,49.0,49.0,0.0
+MRI,Merrill Field                                                                                       ,ANCHORAGE,AK,0,34608.0,35764.0,0.0065930252649326615
+MRN,Foothills Regional                                                                                  ,MORGANTON,NC,0,2.0,2.0,0.0
+MRY,Monterey Regional                                                                                   ,MONTEREY,CA,0,325476.0,371785.0,0.02696248422301739
+MSL,Northwest Alabama Regional                                                                          ,MUSCLE SHOALS,AL,0,9142.0,9142.0,0.0
+MSN,Dane County Regional/Truax Field                                                                    ,MADISON,WI,1,1206345.0,1425990.0,0.03402012222188655
+MSO,Missoula Montana                                                                                    ,MISSOULA,MT,1,523604.0,605338.0,0.029435157720382854
+MSP,Minneapolis-St Paul International/Wold-Chamberlain                                                  ,MINNEAPOLIS,MN,3,17698431.0,19293759.0,0.01741097111575196
+MSS,Massena International-Richards Field                                                                ,MASSENA,NY,0,5505.0,5670.0,0.005923947097387083
+MSV,Sullivan County International                                                                       ,MONTICELLO,NY,0,53.0,53.0,0.0
+MSY,Louis Armstrong New Orleans International                                                           ,NEW ORLEANS,LA,2,6314393.0,6883430.0,0.017406852488198732
+MTH,The Florida Keys Marathon International                                                             ,MARATHON,FL,0,165.0,165.0,0.0
+MTJ,Montrose Regional                                                                                   ,MONTROSE,CO,0,255323.0,288271.0,0.024571339680395266
+MTM,METLAKATLA,METLAKATLA,AK,0,354.0,354.0,0.0
+MTN,Martin State                                                                                        ,BALTIMORE,MD,0,124.0,136.0,0.018646376444729773
+MTO,Coles County Memorial                                                                               ,MATTOON/CHARLESTON,IL,0,112.0,112.0,0.0
+MTP,MONTAUK,MONTAUK,NY,0,839.0,839.0,0.0
+MUE,Waimea-Kohala                                                                                       ,KAMUELA,HI,0,4125.0,4125.0,0.0
+MVL,MORRISVILLE-STOWE STATE,MORRISVILLE,VT,0,74.0,74.0,0.0
+MVM,MACHIAS VALLEY,MACHIAS,ME,0,1.0,1.0,0.0
+MVY,MARTHA'S VINEYARD,VINEYARD HAVEN,MA,0,89344.0,118880.0,0.05878719630877294
+MWA,Veterans Airport of Southern Illinois                                                               ,MARION,IL,0,13102.0,13371.0,0.004072930392508889
+MWC,Lawrence J Timmerman                                                                                ,MILWAUKEE,WI,0,7.0,7.0,0.0
+MWH,Grant County International                                                                          ,MOSES LAKE,WA,0,3.0,3.0,0.0
+MWK,Mount Airy/Surry County                                                                             ,MOUNT AIRY,NC,0,26.0,26.0,0.0
+MWL,Mineral Wells Regional                                                                              ,MINERAL WELLS,TX,0,38.0,38.0,0.0
+MWO,Middletown Regional/Hook Field                                                                      ,MIDDLETOWN,OH,0,12.0,12.0,0.0
+MYF,Montgomery-Gibbs Exec                                                                               ,SAN DIEGO,CA,0,75.0,75.0,0.0
+MYK,MAY CREEK,MAY CREEK,AK,0,7.0,7.0,0.0
+MYL,McCall Municipal                                                                                    ,MC CALL,ID,0,34.0,34.0,0.0
+MYR,Myrtle Beach International                                                                          ,MYRTLE BEACH,SC,1,1785510.0,1975104.0,0.020388455271581618
+MYU,MEKORYUK,MEKORYUK,AK,0,1398.0,1413.0,0.0021367716278328786
+N13,Bloomsburg Municipal                                                                                ,BLOOMSBURG,PA,0,12.0,12.0,0.0
+N27,Bradford County                                                                                     ,TOWANDA,PA,0,9.0,9.0,0.0
+N66,Albert S Nader Regional                                                                             ,ONEONTA,NY,0,25.0,25.0,0.0
+N79,Northumberland County                                                                               ,SHAMOKIN,PA,0,1.0,1.0,0.0
+NEW,Lakefront                                                                                           ,NEW ORLEANS,LA,0,199.0,209.0,0.009854120676897171
+NUL,NULATO,NULATO,AK,0,2392.0,2417.0,0.0020816166886603593
+NY0,FULTON COUNTY,JOHNSTOWN,NY,0,7.0,7.0,0.0
+NYL,Yuma MCAS/Yuma International                                                                        ,YUMA,AZ,0,84690.0,86576.0,0.004414738364459492
+O22,COLUMBIA,COLUMBIA,CA,0,18.0,18.0,0.0
+O69,Petaluma Municipal                                                                                  ,PETALUMA,CA,0,1.0,1.0,0.0
+O89,FALL RIVER MILLS,FALL RIVER MILLS,CA,0,1.0,1.0,0.0
+OAJ,Albert J Ellis                                                                                      ,JACKSONVILLE,NC,0,159295.0,211258.0,0.058089010968832566
+OAK,San Francisco Bay Oakland International                                                             ,OAKLAND,CA,2,4685564.0,5205296.0,0.021260915226469557
+OAR,Marina Municipal                                                                                    ,MARINA,CA,0,1.0,1.0,0.0
+OBE,OKEECHOBEE COUNTY,OKEECHOBEE,FL,0,61.0,61.0,0.0
+OBI,Woodbine Municipal                                                                                  ,WOODBINE,NJ,0,12.0,12.0,0.0
+OBU,KOBUK,KOBUK,AK,0,1017.0,1082.0,0.012467896840384407
+OCF,Ocala International-Jim Taylor Field                                                                ,OCALA,FL,0,159.0,171.0,0.014658264779644048
+OCH,Nacogdoches A L Mangham Jr Regional                                                                 ,NACOGDOCHES,TX,0,3.0,3.0,0.0
+OCW,Washington-Warren                                                                                   ,WASHINGTON,NC,0,4.0,4.0,0.0
+ODO,Odessa-Schlemeyer Field                                                                             ,ODESSA,TX,0,35.0,35.0,0.0
+OEO,L O Simenstad Municipal                                                                             ,OSCEOLA,WI,0,1.0,1.0,0.0
+OFP,Hanover County Municipal                                                                            ,RICHMOND/ASHLAND,VA,0,13.0,13.0,0.0
+OGB,Orangeburg Municipal                                                                                ,ORANGEBURG,SC,0,4.0,4.0,0.0
+OGD,Ogden-Hinckley                                                                                      ,OGDEN,UT,0,14261.0,14980.0,0.009886035014053496
+OGG,Kahului                                                                                             ,KAHULUI,HI,2,3445322.0,3807583.0,0.020196695211067706
+OGS,Ogdensburg International                                                                            ,OGDENSBURG,NY,0,12403.0,12505.0,0.0016393794148681362
+OJC,Johnson County Exec                                                                                 ,OLATHE,KS,0,27.0,27.0,0.0
+OKC,Okc Will Rogers International                                                                       ,OKLAHOMA CITY,OK,1,2249489.0,2498541.0,0.021222844555855103
+OKV,Winchester Regional                                                                                 ,WINCHESTER,VA,0,6.0,6.0,0.0
+OLD,Dewitt Field/Old Town Municipal                                                                     ,OLD TOWN,ME,0,17.0,17.0,0.0
+OLF,L M Clayton                                                                                         ,WOLF POINT,MT,0,3039.0,3039.0,0.0
+OLM,Olympia Regional                                                                                    ,OLYMPIA,WA,0,25.0,34.0,0.06342724238285391
+OLV,Olive Branch/Taylor Field                                                                           ,OLIVE BRANCH,MS,0,2.0,2.0,0.0
+OMA,Eppley Airfield                                                                                     ,OMAHA,NE,2,2559017.0,2857143.0,0.022284465291994238
+OME,NOME,NOME,AK,0,71938.0,72788.0,0.0023520556562621753
+OMH,ORANGE COUNTY,ORANGE,VA,0,5.0,5.0,0.0
+ONA,Winona Municipal/Max Conrad Field                                                                   ,WINONA,MN,0,17.0,17.0,0.0
+ONO,Ontario Municipal                                                                                   ,ONTARIO,OR,0,4.0,4.0,0.0
+ONP,Newport Municipal                                                                                   ,NEWPORT,OR,0,6.0,6.0,0.0
+ONT,Ontario International                                                                               ,ONTARIO,CA,2,3485239.0,3791656.0,0.016996065470155086
+ONX,Currituck County Regional                                                                           ,CURRITUCK,NC,0,9.0,9.0,0.0
+OOK,TOKSOOK BAY,TOKSOOK BAY,AK,0,3657.0,3772.0,0.006211657946730398
+OPF,Miami-Opa Locka Exec                                                                                ,MIAMI,FL,0,32323.0,41440.0,0.05094894100121716
+OPN,Thomaston-Upson County                                                                              ,THOMASTON,GA,0,4.0,4.0,0.0
+OQN,Brandywine Regional                                                                                 ,WEST CHESTER,PA,0,93.0,93.0,0.0
+OQU,Quonset State                                                                                       ,NORTH KINGSTOWN,RI,0,65.0,65.0,0.0
+ORD,Chicago O'Hare International                                                                        ,CHICAGO,IL,3,40229784.0,47272483.0,0.03279028178704979
+ORF,Norfolk International                                                                               ,NORFOLK,VA,2,2471763.0,2781049.0,0.023859496433582317
+ORH,Worcester Regional                                                                                  ,WORCESTER,MA,0,105180.0,117012.0,0.021549574414465145
+ORI,PORT LIONS,PORT LIONS,AK,0,1278.0,1278.0,0.0
+ORK,North Little Rock Municipal                                                                         ,NORTH LITTLE ROCK,AR,0,4.0,4.0,0.0
+ORL,Exec                                                                                                ,Orlando,FL,0,469.0,524.0,0.022425538371930953
+ORS,ORCAS ISLAND,EASTSOUND,WA,0,8557.0,9913.0,0.029856501004893232
+ORT,NORTHWAY,NORTHWAY,AK,0,9.0,9.0,0.0
+OSA,Mount Pleasant Regional                                                                             ,MOUNT PLEASANT,TX,0,3.0,3.0,0.0
+OSC,Oscoda/Wurtsmith                                                                                    ,OSCODA,MI,0,4.0,4.0,0.0
+OSH,Wittman Regional                                                                                    ,OSHKOSH,WI,0,9.0,9.0,0.0
+OSU,Ohio State University                                                                               ,COLUMBUS,OH,0,85.0,91.0,0.013735121865920519
+OTH,Southwest Oregon Regional                                                                           ,NORTH BEND,OR,0,25079.0,37433.0,0.08340013099332366
+OTZ,Ralph Wien Memorial                                                                                 ,KOTZEBUE,AK,0,58801.0,58801.0,0.0
+OUL,NELSON LAGOON,NELSON LAGOON,AK,0,346.0,346.0,0.0
+OUN,University of Oklahoma Westheimer                                                                   ,NORMAN,OK,0,77.0,77.0,0.0
+OWA,Owatonna Degner Regional                                                                            ,OWATONNA,MN,0,6.0,6.0,0.0
+OWB,Owensboro/Daviess County Regional                                                                   ,OWENSBORO,KY,0,9198.0,11115.0,0.03858778949212227
+OWD,Norwood Memorial                                                                                    ,NORWOOD,MA,0,882.0,882.0,0.0
+OWK,Central Maine/Norridgewock                                                                          ,NORRIDGEWOCK,ME,0,3.0,3.0,0.0
+OXB,Ocean City Municipal                                                                                ,OCEAN CITY,MD,0,32.0,32.0,0.0
+OXC,WATERBURY-OXFORD,OXFORD,CT,0,213.0,253.0,0.03501866938068421
+OXD,Miami University                                                                                    ,OXFORD,OH,0,5.0,5.0,0.0
+OXR,OXNARD,OXNARD,CA,0,54.0,61.0,0.024677535438969
+OZS,Camdenton Memorial-Lake Regional                                                                    ,CAMDENTON,MO,0,2.0,2.0,0.0
+OZW,Livingston County Spencer J Hardy                                                                   ,HOWELL,MI,0,1.0,1.0,0.0
+PAE,Seattle Paine Field International                                                                   ,EVERETT,WA,0,291545.0,326662.0,0.02300699622448632
+PAH,Barkley Regional                                                                                    ,PADUCAH,KY,0,13640.0,14027.0,0.005611162192328045
+PAN,PAYSON,PAYSON,AZ,0,3.0,3.0,0.0
+PAO,PALO ALTO,PALO ALTO,CA,0,48.0,48.0,0.0
+PAQ,"Warren ""Bud"" Woods Palmer Municipal                                                                 ",PALMER,AK,0,2.0,2.0,0.0
+PBG,Plattsburgh International                                                                           ,PLATTSBURGH,NY,0,89886.0,78063.0,-0.027811148332366087
+PBI,Palm Beach International                                                                            ,WEST PALM BEACH,FL,2,4232231.0,4810411.0,0.025941420462785914
+PBV,St George                                                                                           ,ST GEORGE,AK,0,227.0,227.0,0.0
+PCW,Erie-Ottawa International                                                                           ,PORT CLINTON,OH,0,14.0,14.0,0.0
+PDK,Dekalb-Peachtree                                                                                    ,ATLANTA,GA,0,3670.0,3669.0,-5.450185338684577e-05
+PDT,Eastern Oregon Regional at Pendleton                                                                ,PENDLETON,OR,0,6738.0,7169.0,0.012477812296563418
+PDX,Portland International                                                                              ,PORTLAND,OR,2,9002853.0,10682442.0,0.03480394783774665
+PEC,PELICAN,PELICAN,AK,0,932.0,932.0,0.0
+PEO,Penn Yan/Yates County                                                                               ,PENN YAN,NY,0,228.0,228.0,0.0
+PEV,PERRYVILLE,PERRYVILLE,AK,0,601.0,601.0,0.0
+PEX,Paynesville Municipal                                                                               ,PAYNESVILLE,MN,0,12.0,12.0,0.0
+PGA,Page Municipal                                                                                      ,PAGE,AZ,0,22800.0,25361.0,0.021518662695622304
+PGD,PUNTA GORDA,PUNTA GORDA,FL,1,1099025.0,1344849.0,0.04119767714505618
+PGM,PORT GRAHAM,PORT GRAHAM,AK,0,2116.0,2116.0,0.0
+PGR,Kirk Field                                                                                          ,PARAGOULD,AR,0,4.0,4.0,0.0
+PGV,PITT-GREENVILLE,GREENVILLE,NC,0,42832.0,42832.0,0.0
+PHF,Newport News/Williamsburg International                                                             ,NEWPORT NEWS,VA,0,65841.0,61255.0,-0.014335704224270773
+PHL,Philadelphia International                                                                          ,PHILADELPHIA,PA,3,14952267.0,16952283.0,0.02542577601869689
+PHN,St Clair County International                                                                       ,PORT HURON,MI,0,6.0,6.0,0.0
+PHO,POINT HOPE,POINT HOPE,AK,0,3939.0,4084.0,0.0072562028392666456
+PHX,Phoenix Sky Harbor International                                                                    ,PHOENIX,AZ,3,25175704.0,28029126.0,0.021705159245099415
+PIA,General Downing - Peoria International                                                              ,PEORIA,IL,0,388935.0,478956.0,0.042518374674625825
+PIB,Hattiesburg/Laurel Regional                                                                         ,HATTIESBURG-LAUREL                      ,MS,0,17029.0,17049.0,0.00023478314497471509
+PIE,St Pete-Clearwater International                                                                    ,ST PETERSBURG-CLEARWATER                ,FL,1,1337585.0,1574326.0,0.03312924554134988
+PIH,Pocatello Regional                                                                                  ,POCATELLO,ID,0,21893.0,18877.0,-0.029209450806580883
+PIM,Harris County                                                                                       ,PINE MOUNTAIN,GA,0,4.0,4.0,0.0
+PIR,Pierre Regional                                                                                     ,PIERRE,SD,0,14995.0,14995.0,0.0
+PIT,Pittsburgh International                                                                            ,PITTSBURGH,PA,2,4780146.0,5126931.0,0.014105789797234314
+PIZ,Point Lay LRRS                                                                                      ,POINT LAY,AK,0,1703.0,1783.0,0.009223463824915568
+PKA,NAPASKIAK,NAPASKIAK,AK,0,1614.0,1614.0,0.0
+PKB,Mid-Ohio Valley Regional                                                                            ,PARKERSBURG,WV,0,5594.0,7114.0,0.0492483133505901
+PLN,Pellston Regional/Emmet County                                                                      ,PELLSTON,MI,0,31685.0,31685.0,0.0
+PMP,POMPANO BEACH AIRPARK,POMPANO BEACH,FL,0,17.0,17.0,0.0
+PMU,PANOLA COUNTY,BATESVILLE,MS,0,6.0,6.0,0.0
+PNA,Ralph Wenz Field                                                                                    ,PINEDALE,WY,0,25.0,25.0,0.0
+PNE,NORTHEAST PHILADELPHIA,PHILADELPHIA,PA,0,89.0,103.0,0.029649572726515583
+PNN,Princeton Municipal                                                                                 ,PRINCETON,ME,0,39.0,39.0,0.0
+PNP,PILOT POINT,PILOT POINT,AK,0,456.0,456.0,0.0
+PNS,Pensacola International                                                                             ,PENSACOLA,FL,1,1535078.0,1742334.0,0.025652381537616176
+POF,Poplar Bluff Regional Business                                                                      ,POPLAR BLUFF,MO,0,4.0,4.0,0.0
+POU,Hudson Valley Regional                                                                              ,POUGHKEEPSIE,NY,0,33.0,37.0,0.023145873080461676
+POV,PORTAGE COUNTY,RAVENNA,OH,0,8.0,8.0,0.0
+PPG,Pago Pago International                                                                             ,PAGO PAGO,AS,0,43032.0,50227.0,0.03140478417443382
+PQI,Presque Isle International                                                                          ,PRESQUE ISLE,ME,0,21457.0,21457.0,0.0
+PQL,Trent Lott International                                                                            ,PASCAGOULA,MS,0,12.0,12.0,0.0
+PRB,Paso Robles Municipal                                                                               ,PASO ROBLES,CA,0,26.0,26.0,0.0
+PRC,Prescott Regional/Ernest A Love Field                                                               ,PRESCOTT,AZ,0,25334.0,31184.0,0.04242690293185225
+PSC,Tri-Cities                                                                                          ,PASCO,WA,1,520971.0,617731.0,0.0346588324769348
+PSE,Mercedita                                                                                           ,PONCE,PR,0,92215.0,96119.0,0.008327320849928599
+PSF,Pittsfield Municipal                                                                                ,PITTSFIELD,MA,0,96.0,96.0,0.0
+PSG,Petersburg James A Johnson                                                                          ,PETERSBURG,AK,0,24828.0,24828.0,0.0
+PSM,Portsmouth International at Pease                                                                   ,PORTSMOUTH,NH,0,80988.0,80988.0,0.0
+PSO,Stevens Field                                                                                       ,PAGOSA SPRINGS,CO,0,2.0,2.0,0.0
+PSP,Palm Springs International                                                                          ,PALM SPRINGS,CA,1,1672422.0,1901169.0,0.02597072888978369
+PTB,TRI CITIES EXEC/DINWIDDIE COUNTY                  ,PETERSBURG,VA,0,4.0,4.0,0.0
+PTD,Potsdam Municipal/Damon Field                                                                       ,POTSDAM,NY,0,28.0,28.0,0.0
+PTH,PORT HEIDEN,PORT HEIDEN,AK,0,823.0,823.0,0.0
+PTK,Oakland County International                                                                        ,PONTIAC,MI,0,503.0,470.0,-0.013479817542154438
+PTN,Harry P Williams Memorial                                                                           ,PATTERSON,LA,0,1.0,1.0,0.0
+PTU,PLATINUM,PLATINUM,AK,0,708.0,768.0,0.01640219077828098
+PTV,Porterville Municipal                                                                               ,PORTERVILLE,CA,0,12.0,12.0,0.0
+PTW,Heritage Field                                                                                      ,POTTSTOWN,PA,0,8.0,8.0,0.0
+PUB,Pueblo Memorial                                                                                     ,PUEBLO,CO,0,2307.0,1924.0,-0.03565708376437504
+PUJ,PAULDING NORTHWEST ATLANTA,ATLANTA,GA,0,9.0,9.0,0.0
+PUW,Pullman/Moscow Regional                                                                             ,PULLMAN/MOSCOW                          ,WA,0,73953.0,82168.0,0.021290715928571347
+PVC,Provincetown Municipal                                                                              ,PROVINCETOWN,MA,0,5793.0,5793.0,0.0
+PVD,Rhode Island Tf Green International                                                                 ,PROVIDENCE,RI,1,2113790.0,2384380.0,0.024383857835331035
+PVJ,Pauls Valley Municipal                                                                              ,PAULS VALLEY,OK,0,2.0,2.0,0.0
+PVU,Provo Municipal                                                                                     ,PROVO,UT,1,530685.0,632064.0,0.03558284760036834
+PWA,Wiley Post                                                                                          ,OKLAHOMA CITY,OK,0,149.0,149.0,0.0
+PWK,Chicago Exec                                                                                        ,CHICAGO/PROSPECT HEIGHTS/WHEELING,IL,0,1046.0,1104.0,0.010851774411495096
+PWM,Portland International Jetport                                                                      ,PORTLAND,ME,1,1285737.0,1438367.0,0.022688832866968323
+PWT,Bremerton Ntl                                                                                       ,BREMERTON,WA,0,10.0,10.0,0.0
+PXE,Perry-Houston County                                                                                ,PERRY,GA,0,9.0,9.0,0.0
+PYM,Plymouth Municipal                                                                                  ,PLYMOUTH,MA,0,63.0,63.0,0.0
+RAC,Batten International                                                                                ,RACINE,WI,0,3.0,3.0,0.0
+RAP,Rapid City Regional                                                                                 ,RAPID CITY,SD,0,447149.0,531270.0,0.035076874498663146
+RBD,Dallas Exec                                                                                         ,DALLAS,TX,0,32.0,32.0,0.0
+RBL,Red Bluff Municipal                                                                                 ,RED BLUFF,CA,0,1.0,1.0,0.0
+RBW,Lowcountry Regional                                                                                 ,WALTERBORO,SC,0,52.0,52.0,0.0
+RBY,RUBY,RUBY,AK,0,2198.0,2310.0,0.00998949894044987
+RCE,Clarence E Page Municipal                                                                           ,OKLAHOMA CITY,OK,0,4084.0,4084.0,0.0
+RCZ,RICHMOND COUNTY,ROCKINGHAM,NC,0,4.0,4.0,0.0
+RDD,Redding Regional                                                                                    ,REDDING,CA,0,89610.0,123848.0,0.06685771964747267
+RDG,Reading Regional/Carl A Spaatz Field                                                                ,READING,PA,0,104.0,104.0,0.0
+RDM,Roberts Field                                                                                       ,REDMOND,OR,1,640523.0,783737.0,0.04118313354176295
+RDU,Raleigh-Durham International                                                                        ,RALEIGH/DURHAM,NC,2,7650457.0,8775078.0,0.02780972215112043
+RDV,RED DEVIL,RED DEVIL,AK,0,100.0,100.0,0.0
+RED,RED LODGE,RED LODGE,MT,0,2.0,2.0,0.0
+RFD,Chicago/Rockford International                                                                      ,CHICAGO/ROCKFORD,IL,0,141372.0,159478.0,0.024395060541325675
+RHI,Rhinelander/Oneida County                                                                           ,RHINELANDER,WI,0,29733.0,32815.0,0.01992147349873563
+RHP,Western Carolina Regional                                                                           ,ANDREWS,NC,0,2.0,2.0,0.0
+RIC,Richmond International                                                                              ,RICHMOND,VA,2,2469502.0,2817987.0,0.026752858499303533
+RIF,Richfield Municipal                                                                                 ,RICHFIELD,UT,0,2.0,2.0,0.0
+RIL,Rifle Garfield County                                                                               ,RIFLE,CO,0,203.0,203.0,0.0
+RIU,RANCHO MURIETA,RANCHO MURIETA,CA,0,2.0,2.0,0.0
+RIV,MARCH ARB,RIVERSIDE,CA,0,3683.0,3683.0,0.0
+RIW,Central Wyoming Regional                                                                            ,RIVERTON,WY,0,25979.0,25979.0,0.0
+RKD,Knox County Regional                                                                                ,ROCKLAND,ME,0,12736.0,13373.0,0.009808818132197805
+RKS,Southwest Wyoming Regional                                                                          ,ROCK SPRINGS,WY,0,26310.0,26480.0,0.0012889571955074786
+RME,Griffiss International                                                                              ,ROME,NY,0,73.0,73.0,0.0
+RMG,Richard B Russell Regional - J H Towers Field                                                       ,ROME,GA,0,4.0,4.0,0.0
+RMN,Stafford Regional                                                                                   ,STAFFORD,VA,0,24.0,24.0,0.0
+RMP,RAMPART,RAMPART,AK,0,639.0,684.0,0.013703739792310987
+RNM,Ramona                                                                                              ,RAMONA,CA,0,2.0,2.0,0.0
+RNO,Reno/Tahoe International                                                                            ,RENO,NV,1,2424383.0,2586239.0,0.013009423263032005
+RNT,Renton Municipal                                                                                    ,RENTON,WA,0,1172.0,1130.0,-0.007272240046532263
+ROA,Roanoke/Blacksburg Regional (Woodrum Field)                                                         ,ROANOKE,VA,0,409406.0,457908.0,0.02264477931358133
+ROC,Frederick Douglass/Greater Rochester International                                                  ,ROCHESTER,NY,1,1378991.0,1437852.0,0.008394691655070341
+ROG,Rogers Exec - Carter Field                                                                          ,ROGERS,AR,0,25.0,28.0,0.022924556626030324
+ROW,Roswell Air Center                                                                                  ,ROSWELL,NM,0,48412.0,46340.0,-0.008710283327211465
+RSH,RUSSIAN MISSION,RUSSIAN MISSION,AK,0,3088.0,3088.0,0.0
+RSN,Ruston Regional                                                                                     ,RUSTON,LA,0,4.0,4.0,0.0
+RST,Rochester International                                                                             ,ROCHESTER,MN,0,102910.0,106261.0,0.006429282074646769
+RSW,Southwest Florida International                                                                     ,FORT MYERS,FL,2,5441672.0,6107673.0,0.02336057858226459
+RUT,Rutland/Southern Vermont Regional                                                                   ,RUTLAND,VT,0,5156.0,5156.0,0.0
+RVF,Ruby Valley Field                                                                                   ,TWIN BRIDGES                            ,MT,0,8.0,8.0,0.0
+RVR,JOSE APONTE DE LA TORRE,CEIBA,PR,0,19908.0,19908.0,0.0
+RVS,Tulsa Riverside                                                                                     ,TULSA,OK,0,28.0,28.0,0.0
+RWI,Rocky Mount/Wilson Regional                                                                         ,ROCKY MOUNT,NC,0,25.0,25.0,0.0
+RYY,Cobb County International/McCollum Field                                                            ,ATLANTA,GA,0,61.0,61.0,0.0
+S05,BANDON STATE,BANDON,OR,0,8.0,8.0,0.0
+S25,Watford City Municipal                                                                              ,WATFORD CITY,ND,0,11.0,11.0,0.0
+S31,LOPEZ ISLAND,LOPEZ,WA,0,1857.0,1857.0,0.0
+S43,Harvey Field                                                                                        ,SNOHOMISH,WA,0,4.0,4.0,0.0
+S52,METHOW VALLEY STATE,WINTHROP,WA,0,3.0,3.0,0.0
+S60,Kenmore Air Harbor                                                                                  ,KENMORE,WA,0,7734.0,7734.0,0.0
+S97,Anderson Field                                                                                      ,BREWSTER,WA,0,2.0,2.0,0.0
+SAA,Shively Field                                                                                       ,SARATOGA,WY,0,47.0,47.0,0.0
+SAC,Sacramento Exec                                                                                     ,SACRAMENTO,CA,0,42.0,42.0,0.0
+SAD,Safford Regional/1lt Duane Spalsbury Field                                                          ,SAFFORD,AZ,0,759.0,759.0,0.0
+SAF,Santa Fe Regional                                                                                   ,SANTA FE,NM,0,199239.0,246751.0,0.04370295631594123
+SAN,San Diego International                                                                             ,SAN DIEGO,CA,3,12587542.0,13664692.0,0.016557111558374027
+SAT,San Antonio International                                                                           ,SAN ANTONIO,TX,2,5319253.0,5745544.0,0.015537819488329552
+SAV,Savannah/Hilton Head International                                                                  ,SAVANNAH,GA,1,2070646.0,2404632.0,0.03035896195764165
+SAW,Marquette/Sawyer Regional                                                                           ,MARQUETTE,MI,0,52318.0,52471.0,0.0005842017610224737
+SAZ,Staples Municipal                                                                                   ,STAPLES,MN,0,1.0,1.0,0.0
+SBA,Santa Barbara Municipal                                                                             ,SANTA BARBARA,CA,1,738552.0,831878.0,0.024084309365040246
+SBD,San Bernardino International                                                                        ,SAN BERNARDINO,CA,0,24430.0,33826.0,0.06724821107758916
+SBM,Sheboygan County Memorial International                                                             ,SHEBOYGAN,WI,0,26.0,26.0,0.0
+SBN,South Bend International                                                                            ,SOUTH BEND,IN,1,538388.0,681570.0,0.04829380420037244
+SBP,San Luis Obispo County Regional                                                                     ,SAN LUIS OBISPO                         ,CA,0,393346.0,467091.0,0.034964258806907234
+SBS,Steamboat Springs/Bob Adams Field                                                                   ,STEAMBOAT SPRINGS,CO,0,7.0,7.0,0.0
+SBY,Salisbury-Ocean City Wicomico Regional                                                              ,SALISBURY,MD,0,66106.0,68971.0,0.008521424809360578
+SCA,Sidney Municipal                                                                                    ,SIDNEY,OH,0,1.0,1.0,0.0
+SCC,DEADHORSE,DEADHORSE,AK,0,104581.0,104581.0,0.0
+SCD,Merkel Field Sylacauga Municipal                                                                    ,SYLACAUGA,AL,0,4.0,4.0,0.0
+SCH,SCHENECTADY COUNTY,SCHENECTADY,NY,0,40.0,40.0,0.0
+SCK,Stockton Metro                                                                                      ,STOCKTON,CA,0,63347.0,66464.0,0.009652870902131294
+SCM,SCAMMON BAY,SCAMMON BAY,AK,0,3853.0,3853.0,0.0
+SCX,Scott Municipal                                                                                     ,ONEIDA,TN,0,8.0,8.0,0.0
+SDF,Louisville Muhammad Ali International                                                               ,LOUISVILLE,KY,1,2255746.0,2425526.0,0.014619366603392026
+SDL,SCOTTSDALE,SCOTTSDALE,AZ,0,61526.0,71177.0,0.029570759018281212
+SDM,Brown Field Municipal                                                                               ,SAN DIEGO,CA,0,132.0,144.0,0.017554577175587616
+SDP,SAND POINT,SAND POINT,AK,0,2645.0,2645.0,0.0
+SDY,Sidney-Richland Regional                                                                            ,SIDNEY,MT,0,7110.0,7110.0,0.0
+SEA,Seattle-Tacoma International                                                                        ,SEATTLE,WA,3,25546953.0,28471795.0,0.02191587978874532
+SEE,Gillespie Field                                                                                     ,SAN DIEGO/EL CAJON,CA,0,50.0,50.0,0.0
+SEF,Sebring Regional                                                                                    ,SEBRING,FL,0,57.0,57.0,0.0
+SEG,Penn Valley                                                                                         ,SELINSGROVE,PA,0,8.0,8.0,0.0
+SEP,Stephenville Clark Regional                                                                         ,STEPHENVILLE,TX,0,8.0,8.0,0.0
+SEZ,SEDONA,SEDONA,AZ,0,59.0,59.0,0.0
+SFB,Orlando Sanford International                                                                       ,ORLANDO,FL,1,1497631.0,1807476.0,0.038325556824039264
+SFF,Felts Field                                                                                         ,SPOKANE,WA,0,19.0,18.0,-0.01075518913431428
+SFM,Sanford Seacoast Regional                                                                           ,SANFORD,ME,0,44.0,44.0,0.0
+SFO,San Francisco International                                                                         ,SAN FRANCISCO,CA,3,26106891.0,30516426.0,0.0317053974414474
+SFZ,North Central State                                                                                 ,PAWTUCKET,RI,0,6.0,6.0,0.0
+SGF,Springfield-Branson Ntl                                                                             ,SPRINGFIELD,MO,1,754033.0,862348.0,0.02720811452058869
+SGH,Springfield/Beckley Municipal                                                                       ,SPRINGFIELD,OH,0,4.0,4.0,0.0
+SGJ,Northeast Florida Regional                                                                          ,ST AUGUSTINE,FL,0,235.0,235.0,0.0
+SGR,Sugar Land Regional                                                                                 ,HOUSTON,TX,0,205.0,214.0,0.008630234767404321
+SGS,South St Paul Municipal/Richard E Fleming Field                                                     ,SOUTH ST PAUL,MN,0,1.0,1.0,0.0
+SGU,St George Regional                                                                                  ,ST GEORGE,UT,0,209146.0,274158.0,0.055626470899284186
+SGY,SKAGWAY,SKAGWAY,AK,0,4657.0,4657.0,0.0
+SHD,Shenandoah Valley Regional                                                                          ,STAUNTON/WAYNESBORO/HARRISONBURG,VA,0,9012.0,9012.0,0.0
+SHG,SHUNGNAK,SHUNGNAK,AK,0,1582.0,1612.0,0.0037642219022215873
+SHH,SHISHMAREF,SHISHMAREF,AK,0,3407.0,3407.0,0.0
+SHN,Sanderson Field                                                                                     ,SHELTON,WA,0,4.0,4.0,0.0
+SHR,Sheridan County                                                                                     ,SHERIDAN,WY,0,29932.0,29932.0,0.0
+SHV,Shreveport Regional                                                                                 ,SHREVEPORT,LA,0,389878.0,448370.0,0.028351446821863968
+SHX,SHAGELUK,SHAGELUK,AK,0,540.0,540.0,0.0
+SIG,Fernando Luis Ribas Dominicci                                                                       ,SAN JUAN,PR,0,14876.0,13687.0,-0.01652252052874381
+SIT,SITKA ROCKY GUTIERREZ,SITKA,AK,0,94971.0,100459.0,0.011298977089058138
+SIY,Siskiyou County                                                                                     ,MONTAGUE,CA,0,2.0,2.0,0.0
+SJC,Norman Y Mineta San Jose International                                                              ,SAN JOSE,CA,2,5466921.0,6241452.0,0.02685368827325174
+SJS,Big Sandy Regional                                                                                  ,PRESTONSBURG,KY,0,42.0,42.0,0.0
+SJT,San Angelo Regional/Mathis Field                                                                    ,SAN ANGELO,TX,0,51624.0,52689.0,0.004092355807343573
+SJU,Luis Munoz Marin International                                                                      ,SAN JUAN,PR,2,6722522.0,7124283.0,0.011676789160134149
+SKF,Kelly Field                                                                                         ,SAN ANTONIO,TX,0,122.0,122.0,0.0
+SKW,SKWENTNA,SKWENTNA,AK,0,102.0,102.0,0.0
+SKX,Taos Regional                                                                                       ,TAOS,NM,0,5.0,5.0,0.0
+SLC,Salt Lake City International                                                                        ,SALT LAKE CITY,UT,3,13450000.0,14990057.0,0.021918355617330798
+SLE,McNary Field                                                                                        ,SALEM,OR,0,17563.0,18404.0,0.009398615353168438
+SLG,Smith Field                                                                                         ,SILOAM SPRINGS,AR,0,8.0,8.0,0.0
+SLH,CHEBOYGAN COUNTY,CHEBOYGAN,MI,0,3.0,3.0,0.0
+SLK,Adirondack Regional                                                                                 ,SARANAC LAKE,NY,0,4630.0,5049.0,0.01747764457107226
+SLN,Salina Regional                                                                                     ,SALINA,KS,0,29445.0,46849.0,0.09733126521514635
+SLQ,SLEETMUTE,SLEETMUTE,AK,0,553.0,553.0,0.0
+SME,Lake Cumberland Regional                                                                            ,SOMERSET,KY,0,4.0,4.0,0.0
+SMF,Sacramento International                                                                            ,SACRAMENTO,CA,2,6802877.0,7642555.0,0.023550302129834222
+SMK,ST MICHAEL,ST MICHAEL,AK,0,1919.0,1919.0,0.0
+SMN,LEMHI COUNTY,SALMON,ID,0,1.0,1.0,0.0
+SMO,Santa Monica Municipal                                                                              ,SANTA MONICA,CA,0,191.0,190.0,-0.0010493202553002456
+SMQ,Somerset                                                                                            ,SOMERVILLE,NJ,0,24.0,24.0,0.0
+SMS,SUMTER,SUMTER,SC,0,22.0,22.0,0.0
+SMX,Santa Maria Public/Capt G Allan Hancock Field                                                       ,SANTA MARIA,CA,0,12850.0,12173.0,-0.010766309300046073
+SNA,John Wayne/Orange County                                                                            ,SANTA ANA,CA,2,5452720.0,5984146.0,0.018773868402591987
+SNP,ST PAUL ISLAND,ST PAUL ISLAND,AK,0,1265.0,1396.0,0.019903256706844008
+SNS,Salinas Municipal                                                                                   ,SALINAS,CA,0,1.0,1.0,0.0
+SOP,Moore County                                                                                        ,PINEHURST/SOUTHERN PINES,NC,0,115.0,115.0,0.0
+SOV,SELDOVIA,SELDOVIA,AK,0,4076.0,4076.0,0.0
+SOW,Show Low Regional                                                                                   ,SHOW LOW,AZ,0,9767.0,9767.0,0.0
+SPA,Spartanburg Downtown Memorial/Simpson Field                                                         ,SPARTANBURG,SC,0,16.0,16.0,0.0
+SPF,Black Hills-Clyde Ice Field                                                                         ,SPEARFISH,SD,0,11.0,11.0,0.0
+SPG,Albert Whitted                                                                                      ,ST PETERSBURG,FL,0,96.0,96.0,0.0
+SPI,Abraham Lincoln Capital                                                                             ,SPRINGFIELD,IL,0,48124.0,54684.0,0.025887436565097177
+SPK,Spanish Fork Municipal/Woodhouse Field                                                              ,SPANISH FORK,UT,0,66.0,66.0,0.0
+SPS,Sheppard AFB/Wichita Falls Municipal                                                                ,WICHITA FALLS,TX,0,32588.0,32588.0,0.0
+SPW,Spencer Municipal                                                                                   ,SPENCER,IA,0,7.0,7.0,0.0
+SQL,SAN CARLOS,SAN CARLOS,CA,0,317.0,300.0,-0.01096331976727316
+SRB,Upper Cumberland Regional                                                                           ,SPARTA,TN,0,20.0,20.0,0.0
+SRQ,Sarasota/Bradenton International                                                                    ,SARASOTA/BRADENTON,FL,1,2146179.0,2362946.0,0.019430378428090256
+SRV,STONY RIVER 2,STONY RIVER,AK,0,225.0,225.0,0.0
+SSF,Stinson Municipal                                                                                   ,SAN ANTONIO,TX,0,2.0,2.0,0.0
+SSI,St Simons Island                                                                                    ,ST SIMONS ISLAND                        ,GA,0,736.0,736.0,0.0
+STC,St. Cloud Regional                                                                                  ,ST CLOUD,MN,0,28051.0,29724.0,0.011653482534793813
+STE,Stevens Point Municipal                                                                             ,STEVENS POINT,WI,0,4.0,4.0,0.0
+STF,George M Bryan                                                                                      ,STARKVILLE,MS,0,7.0,7.0,0.0
+STL,St Louis Lambert International                                                                      ,ST LOUIS,MO,2,7516611.0,8229255.0,0.018281113896855272
+STP,St Paul Downtown Holman Field                                                                       ,ST PAUL,MN,0,23.0,23.0,0.0
+STS,Charles M Schulz/Sonoma County                                                                      ,SANTA ROSA,CA,0,408362.0,516552.0,0.04812660514705058
+STT,CYRIL E KING,CHARLOTTE AMALIE,VI,1,814238.0,895603.0,0.019231493499662466
+STX,Henry E Rohlsen                                                                                     ,CHRISTIANSTED,VI,0,271401.0,270139.0,-0.0009317238057442445
+SUA,Witham Field                                                                                        ,STUART,FL,0,2498.0,7212.0,0.23621115117323477
+SUE,Door County Cherryland                                                                              ,STURGEON BAY,WI,0,10.0,10.0,0.0
+SUN,Friedman Memorial                                                                                   ,HAILEY,ID,0,136844.0,172142.0,0.04696512862514002
+SUS,Spirit of St. Louis                                                                                 ,ST LOUIS,MO,0,90.0,105.0,0.03131030647754507
+SUT,Cape Fear Regional Jetport/Howie Franklin Field                                                     ,OAK ISLAND,NC,0,12.0,12.0,0.0
+SUW,Richard I Bong                                                                                      ,SUPERIOR,WI,0,2.0,2.0,0.0
+SUX,Sioux Gateway/Brig General Bud Day Field                                                            ,SIOUX CITY,IA,0,29882.0,32054.0,0.014132064313283399
+SVA,SAVOONGA,SAVOONGA,AK,0,3359.0,3359.0,0.0
+SVC,Grant County                                                                                        ,SILVER CITY,NM,0,6646.0,6776.0,0.003881872508588735
+SVH,Statesville Regional                                                                                ,STATESVILLE,NC,0,7.0,7.0,0.0
+SVS,STEVENS VILLAGE,STEVENS VILLAGE,AK,0,235.0,235.0,0.0
+SWF,New York Stewart International                                                                      ,NEW YORK                                ,NY,0,151175.0,237161.0,0.09424018326232697
+SWO,Stillwater Regional                                                                                 ,STILLWATER,OK,0,34101.0,38047.0,0.022140651040894355
+SXK,Sioux County Regional                                                                               ,Maurice,IA,0,2.0,2.0,0.0
+SXP,Nunam Iqua                                                                                          ,NUNAM IQUA                              ,AK,0,1766.0,1801.0,0.0039327056743472255
+SXQ,Soldotna                                                                                            ,SOLDOTNA,AK,0,4.0,4.0,0.0
+SYR,Syracuse Hancock International                                                                      ,SYRACUSE,NY,1,1423106.0,1558435.0,0.01833410440798655
+SYV,SYLVESTER,SYLVESTER,GA,0,13.0,13.0,0.0
+SZT,SANDPOINT,SANDPOINT,ID,0,19.0,19.0,0.0
+T82,Gillespie County                                                                                    ,FREDERICKSBURG,TX,0,7.0,7.0,0.0
+TAL,Ralph M Calhoun Memorial                                                                            ,TANANA,AK,0,1922.0,2028.0,0.010794600830531076
+TAZ,Taylorville Municipal                                                                               ,TAYLORVILLE,IL,0,6.0,6.0,0.0
+TBN,Waynesville-St Robert Regional Forney Field                                                         ,FORT LEONARD WOOD,MO,0,11400.0,11400.0,0.0
+TBR,Statesboro-Bulloch County                                                                           ,STATESBORO,GA,0,6.0,6.0,0.0
+TCL,Tuscaloosa Ntl                                                                                      ,TUSCALOOSA,AL,0,3146.0,3520.0,0.022720094375706434
+TCT,TAKOTNA,TAKOTNA,AK,0,403.0,403.0,0.0
+TEB,TETERBORO,TETERBORO,NJ,0,13929.0,17106.0,0.04194718544217535
+TER,TELLER,TELLER,AK,0,1280.0,1280.0,0.0
+TEX,Telluride Regional                                                                                  ,TELLURIDE,CO,0,10823.0,10823.0,0.0
+TIW,TACOMA NARROWS,TACOMA,WA,0,95.0,108.0,0.02598268163158246
+TIX,Space Coast Regional                                                                                ,TITUSVILLE,FL,0,17.0,16.0,-0.012051713658030372
+TKE,TENAKEE,TENAKEE SPRINGS,AK,0,489.0,504.0,0.006061049998363988
+TKI,McKinney Ntl                                                                                        ,DALLAS,TX,0,98.0,98.0,0.0
+TLH,Tallahassee International                                                                           ,TALLAHASSEE,FL,0,458586.0,472749.0,0.006101891149681515
+TLT,TULUKSAK,TULUKSAK,AK,0,2795.0,2795.0,0.0
+TMA,Henry Tift Myers                                                                                    ,TIFTON,GA,0,1.0,1.0,0.0
+TMB,Miami Exec                                                                                          ,MIAMI,FL,0,314.0,346.0,0.019598740091326672
+TME,Houston Executive Airport,Brookshire,TX,0,16.0,16.0,0.0
+TNI,Francisco Manglona Borja/Tinian International                                                       ,TINIAN ISLAND,MP,0,25462.0,25462.0,0.0
+TNU,Newton Municipal-Earl Johnson Field                                                                 ,NEWTON,IA,0,5.0,5.0,0.0
+TOA,Zamperini Field                                                                                     ,TORRANCE,CA,0,22.0,22.0,0.0
+TOC,Toccoa - R G LeTourneau Field                                                                       ,TOCCOA,GA,0,13.0,13.0,0.0
+TOG,Togiak                                                                                              ,TOGIAK VILLAGE,AK,0,2544.0,2544.0,0.0
+TOL,Eugene F Kranz Toledo Express                                                                       ,TOLEDO,OH,0,64361.0,67351.0,0.009123344488688012
+TOR,Torrington Municipal                                                                                ,TORRINGTON,WY,0,8.0,8.0,0.0
+TPA,Tampa International                                                                                 ,TAMPA,FL,3,11963720.0,13144730.0,0.01900680891731743
+TPF,Peter O Knight                                                                                      ,TAMPA,FL,0,164.0,164.0,0.0
+TPL,Draughon-Miller Central Texas Regional                                                              ,TEMPLE,TX,0,2.0,2.0,0.0
+TQE,Tekamah Municipal                                                                                   ,TEKAMAH,NE,0,7.0,7.0,0.0
+TRI,Tri-Cities                                                                                          ,BRISTOL/JOHNSON/KINGSPORT,TN,0,248378.0,301744.0,0.03969296051700155
+TRK,Truckee-Tahoe                                                                                       ,TRUCKEE,CA,0,330.0,330.0,0.0
+TRM,Jacqueline Cochran Regional                                                                         ,PALM SPRINGS,CA,0,351.0,351.0,0.0
+TTA,RALEIGH EXEC JETPORT AT SANFORD-LEE COUNTY,SANFORD,NC,0,56.0,56.0,0.0
+TTD,PORTLAND-TROUTDALE,PORTLAND,OR,0,5.0,5.0,0.0
+TTN,TRENTON MERCER,TRENTON,NJ,0,173658.0,129901.0,-0.05640954327489578
+TUL,Tulsa International                                                                                 ,TULSA,OK,1,1603609.0,1760066.0,0.018793331688215842
+TUP,Tupelo Regional                                                                                     ,TUPELO,MS,0,18557.0,22973.0,0.04361902824615971
+TUS,Tucson International                                                                                ,TUCSON,AZ,1,1921405.0,2020151.0,0.010073514024290686
+TVC,Cherry Capital                                                                                      ,TRAVERSE CITY,MI,0,455357.0,548549.0,0.03794103494379897
+TVF,Thief River Falls Regional                                                                          ,THIEF RIVER FALLS,MN,0,8899.0,8899.0,0.0
+TVI,Thomasville Regional                                                                                ,THOMASVILLE,GA,0,62.0,62.0,0.0
+TVL,LAKE TAHOE,SOUTH LAKE TAHOE,CA,0,71.0,71.0,0.0
+TVY,Bolinder Field/Tooele Valley                                                                        ,TOOELE,UT,0,2.0,2.0,0.0
+TWF,Joslin Field/Magic Valley Regional                                                                  ,TWIN FALLS,ID,0,33137.0,33788.0,0.0038986253472221843
+TXK,Texarkana Regional-Webb Field                                                                       ,TEXARKANA,AR,0,34615.0,34044.0,-0.0033211344947610133
+TYQ,Indianapolis Exec                                                                                   ,INDIANAPOLIS,IN,0,412.0,412.0,0.0
+TYR,Tyler Pounds Regional                                                                               ,TYLER,TX,0,51591.0,51835.0,0.0009441170191368808
+TYS,McGhee Tyson                                                                                        ,KNOXVILLE,TN,1,1780109.0,2075124.0,0.03114440936929186
+U02,McCarley Field                                                                                      ,BLACKFOOT,ID,0,3.0,3.0,0.0
+U55,Panguitch Municipal                                                                                 ,PANGUITCH,UT,0,7.0,7.0,0.0
+U96,Cal Black Memorial                                                                                  ,HALLS CROSSING,UT,0,13.0,13.0,0.0
+UAO,AURORA STATE,AURORA,OR,0,2.0,2.0,0.0
+UBE,Cumberland Municipal                                                                                ,CUMBERLAND,WI,0,1.0,1.0,0.0
+UES,WAUKESHA COUNTY,WAUKESHA,WI,0,56.0,56.0,0.0
+UGN,Waukegan Ntl                                                                                        ,CHICAGO/WAUKEGAN                        ,IL,0,219.0,219.0,0.0
+UIL,Quillayute                                                                                          ,QUILLAYUTE,WA,0,4.0,4.0,0.0
+UIN,Quincy Regional-Baldwin Field                                                                       ,QUINCY,IL,0,3657.0,3657.0,0.0
+UKF,Wilkes County                                                                                       ,NORTH WILKESBORO,NC,0,8.0,8.0,0.0
+UMP,Indianapolis Metro                                                                                  ,INDIANAPOLIS,IN,0,47.0,47.0,0.0
+UNK,UNALAKLEET,UNALAKLEET,AK,0,4992.0,5502.0,0.019645488192135074
+UNU,Dodge County                                                                                        ,JUNEAU,WI,0,1.0,1.0,0.0
+UNV,State College Regional                                                                              ,STATE COLLEGE,PA,0,150320.0,173013.0,0.028519177697510667
+UOX,UNIVERSITY-OXFORD,OXFORD,MS,0,769.0,769.0,0.0
+UTS,Huntsville Municipal                                                                                ,HUNTSVILLE,TX,0,2.0,2.0,0.0
+UUU,NEWPORT STATE,NEWPORT,RI,0,602.0,602.0,0.0
+UVA,Garner Field                                                                                        ,UVALDE,TX,0,17.0,17.0,0.0
+UZA,Rock Hill/York County/Bryant Field                                                                  ,ROCK HILL,SC,0,30.0,30.0,0.0
+VAK,CHEVAK,CHEVAK,AK,0,5688.0,5838.0,0.005219490312202035
+VAY,South Jersey Regional                                                                               ,MOUNT HOLLY,NJ,0,43.0,43.0,0.0
+VCB,Nut Tree                                                                                            ,VACAVILLE,CA,0,3.0,3.0,0.0
+VCT,Victoria Regional                                                                                   ,VICTORIA,TX,0,14427.0,18333.0,0.049086990158151655
+VCV,Southern California Logistics                                                                       ,VICTORVILLE,CA,0,1939.0,2177.0,0.023425241253939078
+VDF,Tampa Exec                                                                                          ,TAMPA,FL,0,31.0,31.0,0.0
+VDI,Vidalia Regional                                                                                    ,VIDALIA,GA,0,49.0,49.0,0.0
+VDZ,Valdez Pioneer Field                                                                                ,VALDEZ,AK,0,3658.0,3658.0,0.0
+VEE,VENETIE,VENETIE,AK,0,1524.0,1544.0,0.0026110016105731493
+VEL,Vernal Regional                                                                                     ,VERNAL,UT,0,11965.0,12735.0,0.012551798208275233
+VGC,Hamilton Municipal                                                                                  ,HAMILTON,NY,0,48.0,48.0,0.0
+VGT,NORTH LAS VEGAS,LAS VEGAS,NV,0,1988.0,2006.0,0.0018043421308784335
+VIS,Visalia Municipal                                                                                   ,VISALIA,CA,0,18.0,18.0,0.0
+VJI,Virginia Highlands                                                                                  ,ABINGDON,VA,0,54.0,54.0,0.0
+VKS,Vicksburg Municipal                                                                                 ,VICKSBURG,MS,0,1.0,1.0,0.0
+VLD,Valdosta Regional                                                                                   ,VALDOSTA,GA,0,56532.0,66594.0,0.033304094500928194
+VLL,OAKLAND/TROY,TROY,MI,0,25.0,25.0,0.0
+VNC,Venice Municipal                                                                                    ,VENICE,FL,0,149.0,149.0,0.0
+VNW,VAN WERT COUNTY,VAN WERT,OH,0,16.0,16.0,0.0
+VNY,VAN NUYS,VAN NUYS,CA,0,2173.0,2182.0,0.0008269789860337884
+VPC,CARTERSVILLE,CARTERSVILLE,GA,0,12.0,12.0,0.0
+VPS,Eglin AFB/Destin-Ft Walton Beach                                                                    ,VALPARAISO/DESTIN-FT WALTON BEACH,FL,1,1219432.0,1429342.0,0.03227572255214195
+VQQ,Cecil                                                                                               ,JACKSONVILLE,FL,0,21.0,21.0,0.0
+VQS,ANTONIO RIVERA RODRIGUEZ,ISLA DE VIEQUES,PR,0,34150.0,34150.0,0.0
+VRB,Vero Beach Regional                                                                                 ,VERO BEACH,FL,0,123348.0,146788.0,0.035408410116811506
+VSF,Hartness State (Springfield)                                                                        ,SPRINGFIELD,VT,0,12.0,12.0,0.0
+VTN,Miller Field                                                                                        ,VALENTINE,NE,0,22.0,22.0,0.0
+VUO,Pearson Field                                                                                       ,VANCOUVER,WA,0,19.0,19.0,0.0
+W33,FRIDAY HARBOR,FRIDAY HARBOR,WA,0,5829.0,5829.0,0.0
+W95,OCRACOKE ISLAND,OCRACOKE,NC,0,7.0,7.0,0.0
+W96,New Kent County                                                                                     ,QUINTON,VA,0,13.0,13.0,0.0
+WBB,STEBBINS,STEBBINS,AK,0,2100.0,2100.0,0.0
+WBQ,BEAVER,BEAVER,AK,0,840.0,877.0,0.008658288119919533
+WCR,CHANDALAR LAKE,CHANDALAR LAKE,AK,0,62.0,62.0,0.0
+WDG,Enid Woodring Regional                                                                              ,ENID,OK,0,32.0,32.0,0.0
+WDR,Barrow County                                                                                       ,WINDER,GA,0,10.0,10.0,0.0
+WJF,General Wm J Fox Airfield                                                                           ,LANCASTER,CA,0,12.0,12.0,0.0
+WLK,SELAWIK,SELAWIK,AK,0,3879.0,3879.0,0.0
+WMC,Winnemucca Municipal                                                                                ,WINNEMUCCA,NV,0,3.0,3.0,0.0
+WMO,WHITE MOUNTAIN,WHITE MOUNTAIN,AK,0,1360.0,1360.0,0.0
+WNA,NAPAKIAK,NAPAKIAK,AK,0,1983.0,1983.0,0.0
+WRG,WRANGELL,WRANGELL,AK,0,14465.0,14465.0,0.0
+WSN,SOUTH NAKNEK NR 2,SOUTH NAKNEK,AK,0,64.0,75.0,0.03222947933334197
+WST,WESTERLY STATE,WESTERLY,RI,0,19863.0,20768.0,0.008950747685112281
+WTK,NOATAK,NOATAK,AK,0,3981.0,3981.0,0.0
+WVI,Watsonville Municipal                                                                               ,WATSONVILLE,CA,0,7.0,7.0,0.0
+WVL,Waterville Regional                                                                                 ,WATERVILLE,ME,0,75.0,75.0,0.0
+WWD,Cape May County                                                                                     ,WILDWOOD,NJ,0,45.0,45.0,0.0
+WYS,Yellowstone                                                                                         ,WEST YELLOWSTONE,MT,0,11528.0,12323.0,0.013427059349311321
+X07,Lake Wales Municipal                                                                                ,LAKE WALES,FL,0,8.0,8.0,0.0
+X14,La Belle Municipal                                                                                  ,LA BELLE,FL,0,12.0,12.0,0.0
+XLL,Allentown Queen City Municipal                                                                      ,ALLENTOWN,PA,0,2.0,2.0,0.0
+XNA,Northwest Arkansas Ntl                                                                              ,FAYETTEVILLE/SPRINGDALE/ROGERS          ,AR,1,1221369.0,1477669.0,0.03883375767444375
+XSA,Tappahannock/Essex County                                                                           ,TAPPAHANNOCK,VA,0,11.0,11.0,0.0
+XVG,Longville Municipal                                                                                 ,LONGVILLE,MN,0,3.0,3.0,0.0
+XWA,Williston Basin International                                                                       ,WILLISTON,ND,0,104313.0,104098.0,-0.00041256118511323603
+Y83,SANDUSKY CITY,SANDUSKY,MI,0,8.0,8.0,0.0
+YAK,YAKUTAT,YAKUTAT,AK,0,11537.0,12428.0,0.014989782476157565
+YIP,Willow Run                                                                                          ,DETROIT,MI,0,5093.0,5268.0,0.006779625510684006
+YKM,Yakima Air Trml/McAllister Field                                                                    ,YAKIMA,WA,0,45306.0,49441.0,0.017621572822393627
+YNG,Youngstown/Warren Regional                                                                          ,YOUNGSTOWN/WARREN,OH,0,11041.0,11131.0,0.0016249972903241705
+Z09,KASIGLUK,KASIGLUK,AK,0,4459.0,4459.0,0.0
+Z13,AKIACHAK,AKIACHAK,AK,0,3523.0,3523.0,0.0
+Z91,BIRCH CREEK,BIRCH CREEK,AK,0,619.0,619.0,0.0
+ZPH,Zephyrhills Municipal                                                                               ,ZEPHYRHILLS,FL,0,3.0,3.0,0.0
+ZZV,Zanesville Municipal                                                                                ,ZANESVILLE,OH,0,1.0,1.0,0.0

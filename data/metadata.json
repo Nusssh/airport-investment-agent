@@ -1,0 +1,34 @@
+{
+  "t100": {
+    "mode": "live",
+    "fetched_at": "2026-10-06 14:08",
+    "rows": 5246,
+    "data_through": "2026-04",
+    "source": "https://data.bts.gov/resource/r495-tyji.json"
+  },
+  "taf": {
+    "mode": "file",
+    "edition": 2025,
+    "built_at": "2026-10-06 14:09",
+    "forecast_years": "2025->2030",
+    "source": "https://taf.faa.gov/Downloads/APO100_TAF_Final_2025.zip"
+  },
+  "airports": {
+    "mode": "file",
+    "built_at": "2026-10-06 14:23",
+    "airports": 679,
+    "census_geocodes_year": 2025,
+    "faa_cross_check": "640 airports compared, 1 state mismatches",
+    "source": "https://davidmegginson.github.io/ourairports-data/airports.csv"
+  },
+  "traffic": {
+    "mode": "live",
+    "fetched_at": "2026-10-07 09:07",
+    "api_calls": 3,
+    "seconds": 10.9,
+    "period": "2025-05 to 2026-04",
+    "previous_period": "2024-05 to 2025-04",
+    "airports": 334,
+    "source": "https://data.bts.gov/resource/r495-tyji.json"
+  }
+}

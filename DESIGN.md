@@ -47,7 +47,7 @@ expansion_index    = 0.40 × unmet_demand_index + 0.35 × momentum_index + 0.25 
 | 5 general tools, combined by the LLM | A fixed flow per question type | The LLM can pick the wrong tool → tool trace and automated checks |
 | One model + fallback from a second provider | A single model | Two integrations; fallback runs only if its key is configured |
 | Congestion measured by delays | Physical capacity (FAA ASPM) | ASPM needs registration; delays show effects, not capacity |
-| Ambiguous signals kept out of scores (fares, planned spend) | Add them to the index | Shown as context only |
+| Ambiguous signals kept out of scores (fares, planned spend) | Add them to the index | Not used yet; the agent says the data is unavailable. Next step: show them as context with both readings |
 
 ## 4. Where/how AI is used
 
